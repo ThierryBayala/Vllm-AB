@@ -2,7 +2,7 @@
 
 A multimodal system supporting early identification of substance-related risk behaviors in school environments (CNN + LSTM + LLM-based frame description).
 
-## Project structure (best practices)
+## Project structure
 
 ```
 Vllm/
@@ -17,6 +17,7 @@ Vllm/
 │   ├── normal/                # Normal videos
 │   └── test/                  # Test videos
 ├── models/                    # Saved model checkpoints
+├── results/                   # Outputs: figures, predictions, descriptions (from notebook)
 ├── notebooks/                 # Jupyter notebooks
 │   └── vllmd.ipynb
 ├── tests/                     # Pytest tests
@@ -35,20 +36,13 @@ Vllm/
    pip install -e .
    ```
 
-2. **Optional dependencies:**
+2. **Dependencies:**
 
    - Gemini API: `pip install google-genai`
-   - BLIP / Hugging Face: `pip install transformers`
+   - Hugging Face: `pip install transformers`
 
-3. **Environment:** Copy `.env.example` to `.env` and set `GEMINI_API_KEY` if using Gemini. To avoid any cache folders in the project (e.g. `__pycache__`, `.ruff_cache`, `.pytest_cache`), see the optional variables in `.env.example`.
-
+3. **Environment:** Set `GEMINI_API_KEY` if using Gemini in `.env`. 
 ## Usage
 
-- **Notebooks:** Open `notebooks/vllmd.ipynb`. The first cell sets `PROJECT_ROOT` and imports from `vllmd`. Place your videos under `data/abnormal/`, `data/normal/`, `data/test/` (see `data/README.md`).
+- **Notebooks:** Open `notebooks/vllmd.ipynb`. The first cell sets `PROJECT_ROOT` and imports from `vllmd`. Place your videos under `data/abnormal/`, `data/normal/`, `data/test/` (see `data/README.md`). All outputs (figures, training history, predictions, descriptions) are saved under `results/`.
 - **From code:** `from vllmd import VideoDataProcessor, ActionRecognitionPipeline, ...`
-
-## Naming conventions
-
-- **Packages and modules:** lowercase, underscores (`video_processing`, `entity_extractor`).
-- **Scripts and notebooks:** lowercase (`vllmd.ipynb`).
-- **Data and artifacts:** `data/`, `models/` at project root.

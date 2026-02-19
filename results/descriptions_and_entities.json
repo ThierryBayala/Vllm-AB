@@ -1,0 +1,43 @@
+{
+  "descriptions": [
+    {
+      "frame_index": 39,
+      "description": "A small group of people is standing together on a city street at night. One woman in a red dress reaches her arm out toward a man in dark clothing. Another woman stands nearby in a dark top and skirt, looking on. Yellow traffic lines are visible on the pavement behind the group. The grainy image suggests it was captured from a low-resolution video source."
+    },
+    {
+      "frame_index": 125,
+      "description": "A group of people are gathered on a street at night. A man in a dark jacket is at the center of a tense situation. Several women are surrounding him, and some appear to be pushing or pulling. One woman in a polka-dot top stands behind the man while others engage with him. The scene takes place outdoors next to a large parked vehicle."
+    },
+    {
+      "frame_index": 212,
+      "description": "A group of people are involved in a physical fight on a street at night. One woman in a black dress is pulling the hair of another woman on the ground. A man in a black jacket stands amidst the struggling women. Other women nearby watch the altercation unfold. The scene takes place on a dark, paved road next to a vehicle."
+    },
+    {
+      "frame_index": 299,
+      "description": "A person lies on the paved ground at night. A woman in a short skirt stands nearby, looking down at them. A man in a black jacket stands in the background watching the scene. Long shadows stretch across the ground from overhead streetlights. Several other bystanders are walking in the distance."
+    }
+  ],
+  "entities_per_frame": [
+    [
+      "people (OBJECT)",
+      "standing (ACTION)",
+      "street (OBJECT)"
+    ],
+    [
+      "people (OBJECT)",
+      "street (OBJECT)",
+      "vehicle (OBJECT)"
+    ],
+    [
+      "people (OBJECT)",
+      "street (OBJECT)",
+      "road (OBJECT)",
+      "vehicle (OBJECT)"
+    ],
+    [
+      "person (OBJECT)",
+      "street (OBJECT)",
+      "walking (ACTION)"
+    ]
+  ]
+}

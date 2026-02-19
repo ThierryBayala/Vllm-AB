@@ -4,7 +4,7 @@ Model architecture, training, and prediction for video action recognition.
 
 from __future__ import annotations
 
-from typing import Any, List, Optional
+from typing import Any, Dict, List, Optional
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -153,10 +153,11 @@ class ActionRecognitionPipeline:
         epochs: int,
         save_path: str,
         lr: float = 1e-3,
-    ) -> None:
-        """Train the model and save best checkpoint by validation loss."""
+    ) -> List[Dict[str, float]]:
+        """Train the model and save best checkpoint by validation loss. Returns history for plotting."""
         optimizer = Adam(self.model.parameters(), lr=lr)
         best_val_loss = float("inf")
+        history: List[Dict[str, float]] = []
 
         for epoch in range(epochs):
             self.model.train()
@@ -189,14 +190,22 @@ class ActionRecognitionPipeline:
 
             train_acc = train_correct / train_total
             val_acc = val_correct / val_total
+            avg_train_loss = train_loss / len(train_loader)
             avg_val = val_loss / len(val_loader)
+            history.append({
+                "train_loss": avg_train_loss,
+                "val_loss": avg_val,
+                "train_acc": train_acc,
+                "val_acc": val_acc,
+            })
             if avg_val < best_val_loss:
                 best_val_loss = avg_val
                 torch.save(self.model.state_dict(), save_path)
             print(
-                f"Epoch {epoch+1}/{epochs}  train_loss={train_loss/len(train_loader):.4f}  "
+                f"Epoch {epoch+1}/{epochs}  train_loss={avg_train_loss:.4f}  "
                 f"train_acc={train_acc:.4f}  val_loss={avg_val:.4f}  val_acc={val_acc:.4f}"
             )
+        return history
 
     def load(self, path: str) -> None:
         """Load model state from path."""
