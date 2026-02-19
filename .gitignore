@@ -1,0 +1,4 @@
+# Ignore specified folders
+dataset/
+trash/
+__pycache__/
