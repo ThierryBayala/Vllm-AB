@@ -1,4 +1,42 @@
-# Ignore specified folders
-dataset/
-trash/
+# Environment and secrets
+.env
+.venv/
+venv/
+env/
+
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Data and artifacts (uncomment if you don't want to track large files)
+# data/abnormal/
+# data/normal/
+# data/test/
+# models/
+data/
+trash/
+
+# IDE and tools
+.idea/
+.vscode/
+*.swp
+*.swo
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

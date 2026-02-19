@@ -1,0 +1,17 @@
+# Core
+numpy
+opencv-python
+pandas
+scikit-learn
+torch
+torchvision
+matplotlib
+requests
+Pillow
+python-dotenv
+google-genai
+
+# Optional: Gemini API
+
+# Optional: BLIP / Hugging Face
+# transformers
