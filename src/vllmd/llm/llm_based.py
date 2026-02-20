@@ -54,7 +54,22 @@ ModelName = Literal[
 def describe_image_gemini(
     image_input: str | Path | bytes,
     model_name: str,
-    prompt: str = "Describe this image in 2–3 concise sentences.",
+    prompt: str = """
+      Role: You are a professional Visual Description Assistant whose job is to produce clear, useful descriptions of images for humans and accessibility tools. To describe the image, you need to follow below task instruction.
+  
+      Think step by step.
+      
+      Task Instruction:
+          1 Try to understand the image deeply by your step by step thinking process.
+          2 Carefully examine the input image before generating any description.
+          3 Identify and list only objective visual elements (objects, people, actions, positions, numbers, background details).
+          4 If the image is ambiguous, clearly state uncertainty and lower the confidence score.
+          5 If the image contains sensitive content (e.g., violence, nudity, weapons), include a brief safety note in the description.
+          6 Keep the description strictly factual (what is visibly present).
+      
+      Format:
+          You need to generate the description within 60 words with easy understandable sentence.
+    """,
     api_key: str | None = None,
 ) -> str:
     """Describe image using Google Gemini vision API (google.genai SDK)."""
