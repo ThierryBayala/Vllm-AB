@@ -1,0 +1,466 @@
+[
+  {
+    "video_index": 1,
+    "context": "violence",
+    "description": "CCTV footage from 2014 shows an indoor hallway with a black office chair and white walls. A person in a black jacket with \"ΑΣΤΥΝΟΜΙΑ\" (Police) text leans forward in the foreground. On the floor, the legs of another individual are visible. Safety note: The image depicts a potentially sensitive scene with a person lying on the floor.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 2,
+    "context": "violence",
+    "description": "A high-angle view shows a person in a light top and dark pants sitting on a dark floor mat next to a small wooden table. The interior stone room features an arched doorway, open double doors, and a framed painting in a wall alcove. A small red object is visible on the mat near the person.",
+    "named_entities": []
+  },
+  {
+    "video_index": 3,
+    "context": "violence",
+    "description": "A surveillance image shows three people in tan uniforms within a large room featuring a polished floor. One individual stands near a desk in the foreground. In the background, two others stand by another desk and grey doors with small windows. The individuals appear to be looking at documents on the desks.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 4,
+    "context": "violence",
+    "description": "Low-quality security footage shows four individuals outside a building at night. One person lies on the ground while three others in light-colored clothing stand or crouch over them. A white car is partially visible. Timestamp: February 27, 2009. Safety note: This image depicts a scene of potential violence or a physical confrontation.",
+    "named_entities": [
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "February 27, 2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 5,
+    "context": "violence",
+    "description": "A low-resolution indoor scene shows three people in dark clothing walking through a brightly lit hallway. One person stands near a wall on the left, while two others walk away from the camera. An open wooden door and a trash can are on the right. In the background, another figure is lying on the floor.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "violence",
+    "description": "Security camera footage from CAM04 shows a narrow, dimly lit hallway. A person sits on the floor, leaning against a white door. The opposite wall features a bulletin board and a radiator. A timestamp in the top right corner indicates the date 2016-12-20 and time 23:36:51. The image quality is low and grainy.",
+    "named_entities": [
+      {
+        "text": "23:36:51",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "violence",
+    "description": "A group of young children wearing winter jackets stands on a light-colored tiled floor inside a room. Most are facing away from the camera. A red bench sits against a wall in the background near a doorway. A timestamp at the top right reads \"2016-12-22 09:57:08.\" Bright light reflects off the floor.",
+    "named_entities": [
+      {
+        "text": "2016-12-22",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 8,
+    "context": "violence",
+    "description": "Grainy CCTV footage from 2007 shows an indoor setting. One person lies face down on the floor near a doorway. Two individuals sit on chairs, while others sit on the floor in an adjacent area. Low resolution makes specific details unclear. Note: The scene depicts individuals in potentially distressed positions. Confidence score: Medium due to image quality.",
+    "named_entities": [
+      {
+        "text": "Grainy CCTV",
+        "label": "PERSON"
+      },
+      {
+        "text": "2007",
+        "label": "DATE"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 9,
+    "context": "violence",
+    "description": "A security camera still shows a person in a red shirt sitting on a concrete wall outside a building. A police car is visible on the right street. Overlays include a \"LiveLeak\" logo and \"Regina Court of Queen's Bench\" text. The scene is outdoors in daylight, featuring a timestamp from July 5, 2012.",
+    "named_entities": [
+      {
+        "text": "Overlays",
+        "label": "DATE"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Bench",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "July 5, 2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "violence",
+    "description": "This grainy, high-angle security camera image shows a bright hallway with white walls and tiled floors. A long metallic bench sits on the left. On the right, a person wearing a blue shirt and dark trousers is partially visible. A \"LiveLeak\" watermark appears in the upper-left corner. The overall image quality is low and blurry.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 11,
+    "context": "violence",
+    "description": "Grainy surveillance footage shows an empty retail store aisle. Tall shelves packed with colorful merchandise line the left side, while a lone shopping cart sits in the middle of the floor. Logos for LiveLeak, RUPTLY, and PressTV appear on the screen. No people are visible in this low-resolution shot.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "video_index": 12,
+    "context": "violence",
+    "description": "This grainy CCTV frame depicts an urban street. A person in dark clothing walks on the left. A dark SUV is parked on the right side of the road. Road markings include double yellow lines and the words \"LOADING ONLY.\" A \"LiveLeak\" logo is in the top left corner. A small white object lies on the ground.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "violence",
+    "description": "Security camera footage shows three people in a scan room. One person in dark clothing walks toward the center, while two others in dark uniforms stand near a dark doorway on the right. The room contains large scanning equipment and footprint markers on the floor. Text at the bottom provides a 2014 timestamp.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "violence",
+    "description": "Low-quality surveillance footage shows the interior of a bus with grey seats. A woman in a teal shirt and jeans stands in the aisle, leaning over a seated passenger. Several children are visible in other seats. A \"LiveLeak\" logo and a timestamp from September 24, 2009, are displayed on the screen.",
+    "named_entities": [
+      {
+        "text": "grey",
+        "label": "ORG"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "September 24, 2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 15,
+    "context": "violence",
+    "description": "This low-resolution image shows a dimly lit, paved outdoor area at night. Three figures are visible: one walks on the right, while two others stand near vertical pillars. Small, unidentified objects are scattered on the ground. Due to the high level of blurriness, identifying specific details is difficult. Confidence score: Moderate.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 16,
+    "context": "violence",
+    "description": "A low-resolution CCTV image labeled \"Cam 28\" shows a crowded indoor room. Numerous people are standing near desks and tables. A curved desk with papers sits on the left, while tables covered with blue cloth are on the right. A timestamp at the top indicates it is June 25, 2017, at 12:54 PM.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Cam 28",
+        "label": "LAW"
+      },
+      {
+        "text": "June 25, 2017",
+        "label": "DATE"
+      },
+      {
+        "text": "12:54 PM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 17,
+    "context": "violence",
+    "description": "A grainy, black-and-white CCTV image shows a physical struggle between two people in an indoor entryway near a staircase. One individual wears a light-colored jacket and is bent forward. Safety Note: This image depicts a violent physical encounter. Due to low image quality, specific actions are difficult to identify. Confidence score: 0.7.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.7",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 18,
+    "context": "violence",
+    "description": "This grainy 2013 CCTV footage captures several individuals in a narrow alley at night. A car with illuminated headlights sits in the background. On the right, a person in a light shirt stands near a gated entrance. Reddish light glows on the walls, and a figure wearing a blue helmet appears in the lower foreground.",
+    "named_entities": [
+      {
+        "text": "2013",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 19,
+    "context": "violence",
+    "description": "A grainy, low-light security camera image shows a large elephant in a dark outdoor area. A white trash bin sits on the left. In the foreground, there is a pile of gravel next to a wall made of sandbags. A distant person is visible in the upper right. The image quality is low, making some details unclear.",
+    "named_entities": []
+  },
+  {
+    "video_index": 20,
+    "context": "violence",
+    "description": "Several men surround a person in a red shirt who is bent forward in a shop. Others appear to be restraining or assisting them. A white counter is on the right. Note: This depicts a distressing physical encounter. Confidence Score: 7/10. A \"YouTube/fatalaccidents\" watermark is visible in the bottom right corner.",
+    "named_entities": [
+      {
+        "text": "7/10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "YouTube",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 21,
+    "context": "violence",
+    "description": "A grainy security camera image shows an ATM vestibule. One person lies face-down on the floor while two others stand nearby holding long sticks. One standing person wears a yellow head covering. Safety Note: This image depicts a potential physical assault or robbery. The room contains two ATMs and a small fan. Confidence score: 0.8.",
+    "named_entities": [
+      {
+        "text": "ATM",
+        "label": "ORG"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0.8",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 22,
+    "context": "violence",
+    "description": "Safety note: This CCTV image depicts a potential physical altercation or distress. A group of people is gathered outdoors. Most stand in a cluster, while one individual in a light shirt is hunched over on the ground. A timestamp and \"caught on camera\" text are visible. Interaction details are unclear due to low image quality.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 23,
+    "context": "violence",
+    "description": "A grainy CCTV image from August 2014 shows a dimly lit bar. In the foreground, a man sits at a table with multiple glasses. Behind him, several people are standing and moving; one person has their arms raised. The low image resolution makes specific details and facial features difficult to identify.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "August 2014",
+        "label": "DATE"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 24,
+    "context": "violence",
+    "description": "A high-angle surveillance view shows a room with multiple people. One person in a striped uniform and red footwear is walking. Other individuals are lying on cots, some covered with grey blankets. A long white table with attached benches sits in the center. The room has plain walls and one cot has a green mattress cover.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "grey blankets",
+        "label": "ORG"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 25,
+    "context": "violence",
+    "description": "CCTV footage from a street with parked motorcycles shows three men in a physical confrontation. One man in a pink shirt holds another. A third man in a checkered shirt approaches them with a long wooden stick raised high. Bystanders watch from the background. Note: This image depicts physical aggression.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 26,
+    "context": "violence",
+    "description": "A monochromatic security camera image shows a man in a white t-shirt and dark pants inside an elevator. He is bent over, facing the corner near a handrail. The image includes a \"LiveLeak\" watermark and a timestamp: \"7/2/2012 9:02:32 PM.\" Elevator control buttons are visible on the dark walls.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "9:02:32 PM",
+        "label": "TIME"
+      }
+    ]
+  }
+]

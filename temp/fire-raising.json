@@ -1,0 +1,800 @@
+[
+  {
+    "video_index": 1,
+    "context": "fire-raising",
+    "description": "A security camera image shows an asphalt parking lot with white lines. To the right is a white house behind two large trees. Another house and wooden fence appear on the left. A silver car sits near a distant shed. Top-left text reads \"08-07-2016 Sun 11:43:15\" and bottom-right says \"East Side\".",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "08-07-2016 Sun",
+        "label": "DATE"
+      },
+      {
+        "text": "East Side",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 2,
+    "context": "fire-raising",
+    "description": "A security camera captures a person in a bright green hoodie and dark pants crouching near the base of a staircase. The staircase has blue steps and white railings, positioned against a light brick wall. The scene is set in a dimly lit outdoor area next to a corrugated metal structure. The person's specific activity is unclear.",
+    "named_entities": []
+  },
+  {
+    "video_index": 3,
+    "context": "fire-raising",
+    "description": "A very dark, low-resolution image showing a dimly lit area. Several white plastic chairs and structures are visible in the upper right. Small glowing points of light appear on the left and far right. The overall scene is grainy and mostly obscured by darkness. Confidence in identifying specific details is low due to poor visibility.",
+    "named_entities": []
+  },
+  {
+    "video_index": 4,
+    "context": "fire-raising",
+    "description": "A grainy, low-light image shows the hood and windshield of a green car in the foreground. \"CH2\" is printed in the top-left corner. A traffic cone with a white reflective band stands on the dark ground next to a plain wall. The scene appears to be a parking area or roadside captured by a security camera.",
+    "named_entities": [
+      {
+        "text": "CH2",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "fire-raising",
+    "description": "This grainy, black-and-white surveillance image shows a person in a room. The person is bent over, picking up an object near a chair. A large white table dominates the foreground. Due to low image quality, specific details of the person and object are unclear. Other chairs and a doorway are visible in the background. Confidence score: 8/10.",
+    "named_entities": [
+      {
+        "text": "8/10",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "fire-raising",
+    "description": "A black and white security camera image shows a house porch at night. Two large bushes are decorated with glowing string lights. A wooden bench and railing sit on the porch near the house siding. Text overlays include \"CAM 1\" and a timestamp dated 12-04-2014. The scene is captured in a night-vision style.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "CAM 1",
+        "label": "LAW"
+      },
+      {
+        "text": "12-04-2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 8,
+    "context": "fire-raising",
+    "description": "This black and white CCTV still depicts an interior lounge area. Three dark sofas are arranged around a central coffee table. A large shelving unit filled with products lines the left wall. A blurred figure is visible near a glass entrance on the right. Screen overlays include a 2012 timestamp, \"CH8,\" and a \"Replay\" button.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "Replay",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 9,
+    "context": "fire-raising",
+    "description": "This black and white security image shows two emergency responders in reflective gear standing next to a white van at night. A timestamp at the top reads \"07/18/2014 11:51:57 PM\". The scene is dark, with the reflective stripes on the uniforms glowing brightly against the background. One figure appears to be inspecting the side of the vehicle.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "11:51:57 PM",
+        "label": "TIME"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "fire-raising",
+    "description": "This grainy security camera footage shows two white vans on a paved, cobblestone surface at night. One van is on the left, and another is angled in the center-top. The background is dark with a distant fence. Indistinct white text and numbers are visible at the top and bottom edges of the image.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Indistinct",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 11,
+    "context": "fire-raising",
+    "description": "This CCTV image captures two people inside an elevator. A young man in a dark hoodie sits in the corner. Another person with long hair leans over a bicycle lying on the floor. The elevator has metal walls, handrails, and a lit control panel. Overlays show a 2015 timestamp, \"CAM 96,\" and \"TITANVORTEX.\"",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      },
+      {
+        "text": "CAM 96",
+        "label": "LAW"
+      }
+    ]
+  },
+  {
+    "video_index": 12,
+    "context": "fire-raising",
+    "description": "This grainy image shows a large group of people around several cars at night. A silver sedan is in the center. Many individuals in the background wear white clothing. Bright lights illuminate the area from behind. Due to the low quality and blurriness, specific actions and details are unclear. Confidence in detail identification is low.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "fire-raising",
+    "description": "A low-resolution security camera still shows a night-time street scene. A red brick wall stands on the left, with two green grass patches in the center and a large tree trunk on the right. On-screen text includes a 2013 timestamp, \"camera4,\" and a prompt to \"COVER-UP LENS / CLOSE IRIS.\" A Fairfax Media logo appears in the top right.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "fire-raising",
+    "description": "A grainy nighttime CCTV image shows a silver car parked on a roadside with white smoke rising from its rear. On the left is a structure with a covered walkway and bare tree branches. Streetlights illuminate the empty road. A \"Live Leak\" watermark and a timestamp from 2012 appear at the top of the frame.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "A \"Live Leak",
+        "label": "LAW"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 15,
+    "context": "fire-raising",
+    "description": "A black and white CCTV image shows a hallway with a staircase and elevator. Three people are present. One individual in light clothing is moving forcefully toward a door. Another person on the right holds open a metal security gate. A third person stands near the stairs. Note: This depicts a potential forced entry.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 16,
+    "context": "fire-raising",
+    "description": "The interior of an empty bus upper deck is shown from a wide-angle perspective. Rows of blue seats are separated by a central aisle with vertical red handrails. Several newspapers are scattered across the floor and on the seats. A green sign is visible on the rear window, and side windows show an outdoor street view.",
+    "named_entities": []
+  },
+  {
+    "video_index": 17,
+    "context": "fire-raising",
+    "description": "A grainy CCTV image shows two people on a residential street beside a sidewalk and brick fence. One person in dark clothing moves toward another in a light shirt. Parked cars are visible in the distance. Note: This image depicts a potential physical altercation. Low resolution makes specific details unclear.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 18,
+    "context": "fire-raising",
+    "description": "A grainy, black-and-white night vision image shows several parked vehicles. In the foreground is a large white van, with a light-colored sedan parked behind it. A person stands near the sedan's side. Other vehicles are visible in the background under dim lighting. Due to low image quality, specific details are unclear.",
+    "named_entities": []
+  },
+  {
+    "video_index": 20,
+    "context": "fire-raising",
+    "description": "A black and white security footage image shows a snowy driveway at night. A white SUV is parked in the center, and a white minivan is parked to its right with an open rear door. Patches of snow and bushes line the driveway. A timestamp in the upper right corner reads 03-27-2015 02:53:06 AM.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "03-27-2015",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "02:53:06 AM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 21,
+    "context": "fire-raising",
+    "description": "Safety Note: This image depicts a car hitting a pedestrian.\n\nLow-quality black and white CCTV footage shows a person standing next to a pole on a sidewalk. A white car drives quickly into the frame and crashes into the person and the pole. The timestamp reads 01-08-2011 04:52:04. Debris is visible after the impact.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "01-08-2011",
+        "label": "DATE"
+      },
+      {
+        "text": "Debris",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 22,
+    "context": "fire-raising",
+    "description": "Security camera footage labeled \"CH6\" captures an indoor lobby decorated with holiday garlands, pink bows, and a Christmas tree. The room contains a black metal shelving unit, two chairs, and a large floor mat on a tiled floor. A person stands behind the glass of the wooden double entrance doors.",
+    "named_entities": [
+      {
+        "text": "CH6",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Christmas",
+        "label": "DATE"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 23,
+    "context": "fire-raising",
+    "description": "Grainy surveillance footage timestamped 05/11/2012 shows a light-colored car at night. A person in light-colored clothing stands behind the vehicle, leaning toward the rear roof. The scene is dark with a low wall in the background. \"CH01\" is visible in the top left corner.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 24,
+    "context": "fire-raising",
+    "description": "This low-resolution security footage shows a bright, pinkish-purple glow amidst a dark, blurry background. A timestamp reads \"07-25-2016 Mon 18:57:09\" and \"Camera 01\" is visible. Due to extreme blurriness and poor image quality, specific objects cannot be identified. Confidence score: Low.",
+    "named_entities": [
+      {
+        "text": "07-25-2016",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Camera 01",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 25,
+    "context": "fire-raising",
+    "description": "A CCTV image shows a white police car with \"B39\" on its roof and an open trunk in the foreground. In the background, a dark car is on fire, emitting thick grey smoke. A person in high-visibility gear and another individual stand nearby. Other parked cars and orange barriers are visible. Note: This image depicts a vehicle fire.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "B39",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "thick grey",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 26,
+    "context": "fire-raising",
+    "description": "A grainy, black-and-white CCTV image depicts a store interior. A person stands behind a checkout counter while another individual points a long object, possibly a firearm, toward them. Other figures are visible in the background. A timestamp overlay appears at the bottom. Safety note: This image depicts a potential armed robbery.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 27,
+    "context": "fire-raising",
+    "description": "A high-angle security camera image shows a person in a white shirt near a fire pit emitting a bright flame. The scene includes a wooden fence, a parked bicycle, and a white shed. The person's exact movement is unclear due to image quality. Safety note: The image depicts a potential fire accident. Confidence score: 85%.",
+    "named_entities": [
+      {
+        "text": "85%",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "video_index": 28,
+    "context": "fire-raising",
+    "description": "This grainy, black-and-white security image shows an outdoor scene at night. A dark car is visible on the left side. In the background, there is a building with lit windows and other bright light sources. A Live Leak logo appears in the top left corner, and a timestamp at the bottom right reads \"2014/06/02 16:55:16\".",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "2014/06/02 16:55:16",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 29,
+    "context": "fire-raising",
+    "description": "This grainy, low-resolution image shows the interior of an empty bus. A central aisle is lined with red seats and yellow vertical handrails. Silver horizontal rails run along the ceiling. A small staircase leads to a raised rear seating area. A \"LiveLeak\" watermark is visible in the top left corner. The lighting appears dim and artificial.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 30,
+    "context": "fire-raising",
+    "description": "A grainy CCTV image shows an empty road intersection at night. A white-striped triangle is painted on the asphalt. One person stands near the dark right edge of the road. Text overlays include a 2012 date, timestamp, \"LiveLeak\" logo, and Chinese characters. The scene is dimly lit by artificial streetlights.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 31,
+    "context": "fire-raising",
+    "description": "This black-and-white nighttime security image shows a large, bright plume of smoke or vapor rising against a dark background. A timestamp from 2014 and a LiveLeak logo appear at the top left. A Fairfax Media watermark is visible at the top right, and \"Camera 01\" is labeled in the bottom right corner.",
+    "named_entities": [
+      {
+        "text": "2014",
+        "label": "DATE"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      },
+      {
+        "text": "Fairfax",
+        "label": "GPE"
+      },
+      {
+        "text": "Camera 01",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 32,
+    "context": "fire-raising",
+    "description": "A security camera still from September 6, 2015, shows a dark sedan crashing into a building's entrance at night. The vehicle's headlights are on, illuminating a glass doorway with posters and a sign labeled \"ROOM.\" Safety note: The image depicts a vehicle accident.",
+    "named_entities": [
+      {
+        "text": "September 6, 2015",
+        "label": "DATE"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 33,
+    "context": "fire-raising",
+    "description": "In this black-and-white security video, a person walks on a sidewalk at night while carrying a long, sharp object. After passing a tree, the individual suddenly collapses forward and remains motionless. Safety note: This footage shows a person falling and carrying a possible weapon. Background elements include a street with several parked cars.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 34,
+    "context": "fire-raising",
+    "description": "A black and white CCTV image shows a residential street at night with terraced houses on the right. On the left, a large, intense burst of bright light indicates a sudden explosion. A \"LiveLeak\" watermark and a 2014 timestamp are visible. Safety Note: The image depicts an explosion.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 35,
+    "context": "fire-raising",
+    "description": "A black-and-white CCTV image shows a bar's interior. A long counter with bar stools on the left leads toward a person standing behind it near the back. Shelves filled with numerous liquor bottles line the right wall. A television monitor is mounted high on the right. A \"LiveLeak\" watermark is visible in the top-left corner.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 36,
+    "context": "fire-raising",
+    "description": "This low-resolution, blurry image shows a dark area illuminated by purple light. A \"LiveLeak\" logo appears in the top-left corner. Faint white markings are visible on the ground. Due to extreme blur and poor quality, the scene is highly ambiguous and specific details cannot be identified. Confidence score: Low.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 37,
+    "context": "fire-raising",
+    "description": "A low-quality, grainy, black-and-white image shows a person walking or running in an outdoor area at night. A bright light illuminates the central figure and the ground. A building is visible on the right, and a \"LiveLeak\" logo appears in the top left corner. Due to heavy pixelation and low resolution, specific details are unclear. Confidence score: 60%.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "60%",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "video_index": 38,
+    "context": "fire-raising",
+    "description": "A low-resolution, black-and-white security camera image shows an industrial outdoor area at night. On the right, a set of metal stairs leads upward. A curved structure and a vertical pole stand in the center. Text overlays include \"LiveLeak\" at the top left, \"EXT STAIRS\" at the bottom left, and a 2011 timestamp at the top right.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "EXT",
+        "label": "ORG"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 39,
+    "context": "fire-raising",
+    "description": "This security camera image shows two people walking on a dark street near a \"STOP\" road marking. A sudden, bright white flash and smoke erupt from the bottom right corner near them. Safety Note: The image depicts a potentially dangerous explosion. The scene includes power lines and buildings in the dark background.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 40,
+    "context": "fire-raising",
+    "description": "A grainy, black-and-white security camera image shows a dimly lit indoor space. A \"LiveLeak\" logo and \"CH1\" are in the top left. A timestamp at the top reads \"01/06/2016 01:23:50.\" On the right is a counter with vertical slats. The room features light-colored walls and a dark floor. No people are visible.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "01/06/2016 01:23:50",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 41,
+    "context": "fire-raising",
+    "description": "This black and white security footage shows an empty porch at night. A dark door is on the left, and a porch swing sits on the right. A bright, fast-moving light streak crosses the frame from right to left. Overlays include a \"Live Leak\" logo and a timestamp dated January 6, 2016. No people are present.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Overlays",
+        "label": "DATE"
+      },
+      {
+        "text": "a \"Live Leak\"",
+        "label": "LAW"
+      },
+      {
+        "text": "January 6, 2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 43,
+    "context": "fire-raising",
+    "description": "This black-and-white security footage shows a nighttime street scene outside a building with a \"SPITFIRE\" sign. A person stands on the sidewalk next to stairs. A sudden, bright burst of fire erupts on the ground beside the individual. Parked cars and buildings are in the background. Safety note: This image depicts a fire or explosion near a person.",
+    "named_entities": [
+      {
+        "text": "SPITFIRE",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 44,
+    "context": "fire-raising",
+    "description": "This night security camera image shows a paved driveway with a white garage door on the right. A dark car is parked in the background. A timestamp at the top reads \"2014-07-15 AM 12:06:49\". The bottom-left corner contains a \"BC POLICE REPORT\" logo and a police crest. The scene is illuminated by an overhead light.",
+    "named_entities": [
+      {
+        "text": "This night",
+        "label": "TIME"
+      },
+      {
+        "text": "2014-07-15 AM",
+        "label": "DATE"
+      },
+      {
+        "text": "BC",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 45,
+    "context": "fire-raising",
+    "description": "This low-resolution, grainy nighttime image shows a street intersection. A tall vertical pole stands in the foreground. The asphalt road features dashed white lines and double yellow lines along a curve. In the background, a building with lit doorways and some dark foliage are visible. A car is partially seen on the far left edge.",
+    "named_entities": []
+  },
+  {
+    "video_index": 46,
+    "context": "fire-raising",
+    "description": "This high-angle CCTV shot shows the interior of an elevator with metallic walls and closed doors. A large, bright pink and white advertisement is mounted on the left wall. The floor is light-colored and speckled. The \"CCTV NEWS\" logo appears in the top left corner, and a control panel with small lights is visible on the right.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 47,
+    "context": "fire-raising",
+    "description": "Security footage shows an empty restaurant with tables, chairs, and a bar. A bright, blurry, semi-transparent white shape moves across the center floor. The shape's identity is highly ambiguous as it lacks distinct features. A timestamp and 'CAM08' label are present. No people are visible. Confidence in identifying the moving object is low.",
+    "named_entities": [
+      {
+        "text": "CAM08",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 48,
+    "context": "fire-raising",
+    "description": "A security camera still captures a bright explosion in a dark outdoor area at night. The central burst of light is surrounded by smoke and haze. Building pillars and paved ground are visible. Text overlays show \"CAM7\", \"PLAYBACK\", and a timestamp of \"2008-05-28 03:41:18\". Safety note: This image depicts a hazardous explosion.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "CAM7",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "PLAYBACK",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "2008-05-28",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 49,
+    "context": "fire-raising",
+    "description": "Grainy security camera footage shows a shop with glass counters and shelves. A man in a white shirt walks towards the back where several people gather. Two white plastic chairs and two monitors are visible behind the counters. Various items are on the floor and surfaces. The text \"Cam 06\" is in the bottom left corner.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 50,
+    "context": "fire-raising",
+    "description": "A high-angle indoor shot shows several vehicles parked on a light grey floor. A silver station wagon sits in the center. Behind it, a line of cars includes a white sedan, a white Hummer-style vehicle, a red SUV, and two dark sedans. Part of a red car is in the foreground. \"Source: Brotts Centralen\" appears in the corner.",
+    "named_entities": [
+      {
+        "text": "grey floor",
+        "label": "ORG"
+      },
+      {
+        "text": "Hummer",
+        "label": "PERSON"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 51,
+    "context": "fire-raising",
+    "description": "A black-and-white security camera frame from January 20, 2015, shows a person in a hat and dark clothing standing by a building. The ground is covered in snow with a visible brick walkway. The person is positioned on the right, looking toward the structure. The timestamp 04:57 AM is displayed at the top right.",
+    "named_entities": [
+      {
+        "text": "January 20, 2015",
+        "label": "DATE"
+      },
+      {
+        "text": "04:57 AM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 52,
+    "context": "fire-raising",
+    "description": "Grainy grayscale security footage displays an interior room. A white electric fan sits in the foreground on the right. In the background, a person briefly appears from behind a wall. Text shows a timestamp \"17-11-2015 02:14:43\" and \"CAM 4\". Due to low resolution and infrared lighting, details of the person and surroundings are unclear.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "17-11-2015",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "CAM 4",
+        "label": "PRODUCT"
+      }
+    ]
+  }
+]

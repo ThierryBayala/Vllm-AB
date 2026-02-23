@@ -1,0 +1,153 @@
+[
+  {
+    "video_index": 1,
+    "context": "traffic irregularities",
+    "description": "This traffic camera image shows a busy multi-lane road with various cars and motorcycles. In the foreground, a white SUV displays a \"New China\" logo. On the right, people stand near a silver car with open doors. The timestamp shows March 24, 2016. Text at the bottom identifies the intersection location in Chinese.",
+    "named_entities": [
+      {
+        "text": "March 24, 2016",
+        "label": "DATE"
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 2,
+    "context": "traffic irregularities",
+    "description": "A security camera image shows a woman in a red top walking across a street marked with yellow crosshatched lines. A dark, unidentified object lies on the pavement in the foreground. Several parked and moving vehicles, including cars and scooters, are visible in the background. A timestamp at the bottom left reads 2011-07-01 13:02:11.",
+    "named_entities": [
+      {
+        "text": "2011-07-01",
+        "label": "DATE"
+      },
+      {
+        "text": "13:02:11",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 3,
+    "context": "traffic irregularities",
+    "description": "A high-angle, low-resolution image shows a two-lane road with motorcycles and cars. On the left, motorcycles are moving. In the center, an adult and a small child are in the roadway. A grey car is in the foreground right. Buildings and grass line the background. Safety note: Pedestrians are shown in an active traffic lane.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Pedestrians",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 4,
+    "context": "traffic irregularities",
+    "description": "A security camera captures a snowy outdoor yard with several vehicles. A small dark animal walks across tire-tracked snow in the center. Parked on the left are multiple cars, while a white SUV with its back hatch open and a large delivery truck sit on the right. Snow-covered buildings and debris appear in the background.",
+    "named_entities": []
+  },
+  {
+    "video_index": 5,
+    "context": "traffic irregularities",
+    "description": "A grayscale security camera image captures a night scene with three people on a sidewalk. A small dark animal is in the middle of the road, positioned in front of a car's bright headlights. A bus is on the right side of the street, and other vehicles are visible in the background.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "traffic irregularities",
+    "description": "A CCTV frame captures a white truck with a red cargo bed during a road accident. An object or person is pinned under the truck’s front-left wheel. A white car and motorcycle are also on the road. The image includes a timestamp and \"CLUB HOUSE ENTRY 01\" label. Safety Note: This image shows a traffic accident scene.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "CLUB HOUSE",
+        "label": "ORG"
+      },
+      {
+        "text": "01",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "traffic irregularities",
+    "description": "A high-angle security camera view shows a suburban street. In the foreground, a person in a light blue shirt stands behind a grey wall. A teal and white truck is parked on the street next to a utility pole. The background features residential houses with red roofs, green trees, and power lines overhead. A silver car is parked nearby.",
+    "named_entities": []
+  },
+  {
+    "video_index": 8,
+    "context": "traffic irregularities",
+    "description": "A red and white bus on the left appears to have collided with a silver car. A yellow hatchback is stopped in the center lane. The scene occurs at an intersection with red traffic lights and a distant bridge under an overcast sky. The image is captured from a front-facing vehicle camera.",
+    "named_entities": []
+  },
+  {
+    "video_index": 9,
+    "context": "traffic irregularities",
+    "description": "A city street at dusk features a foreground crosswalk where two pedestrians cross, including one pushing a red stroller. Parked vans and a white bus are on the left, while multi-story buildings with various signs occupy the right. Several cars travel away in the distance under a clear sky and overhead power lines.",
+    "named_entities": [
+      {
+        "text": "dusk",
+        "label": "TIME"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "traffic irregularities",
+    "description": "A black car moves from left to right on an asphalt road with white lane markings. In the background, a person on a blue scooter travels in the same direction. Two small, dark pieces of debris lie on the street surface in the foreground. The image is taken from a low viewpoint.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 11,
+    "context": "traffic irregularities",
+    "description": "A view from a moving vehicle on a multi-lane road at dusk. A car with red taillights travels ahead, while oncoming headlights are visible in the distance. Tall streetlights, power lines, and trees line the roadside under a blue sky. A concrete barrier separates traffic lanes on the right side of the frame.",
+    "named_entities": [
+      {
+        "text": "dusk",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 12,
+    "context": "traffic irregularities",
+    "description": "A dashcam view from a vehicle traveling on a two-lane road under a cloudy sky. A white van and a truck occupy the left lane. Tall green trees line the left side, while the right side features buildings, signs, and a large tree. Other cars are visible in the distance. Windshield reflections appear in the foreground.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "traffic irregularities",
+    "description": "A dashcam view shows a multi-lane highway under an overcast sky. A large truck covered in a purple tarp drives in the right lane, while a white car is further ahead. Green trees and streetlights line the left side. Reflections are visible on the windshield, and a \"PowerDirector\" watermark appears in the bottom right corner.",
+    "named_entities": []
+  }
+]

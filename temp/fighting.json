@@ -1,0 +1,811 @@
+[
+  {
+    "video_index": 1,
+    "context": "fighting",
+    "description": "A black and white surveillance image shows a cluttered bar area. A person is partially visible on the far left, walking past a long dark counter. The counters hold papers, small containers, and a white refrigerator unit. A \"Red Bull\" display sits on the right. Text overlays show \"CAMERA 05\" and a 2015 timestamp.",
+    "named_entities": [
+      {
+        "text": "Red Bull",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "05",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 2,
+    "context": "fighting",
+    "description": "A low-resolution security camera image shows a subway platform with several people standing and walking. To the left are train tracks, and in the foreground stands an informational board. The platform floor features a colorful, patterned mural. The background contains white tiled walls and pillars. Overhead, various pipes and lights are attached to the ceiling.",
+    "named_entities": []
+  },
+  {
+    "video_index": 3,
+    "context": "fighting",
+    "description": "CCTV footage from 2014 shows a room with a pool table. Several individuals are present, including one person in the foreground wearing a shirt with \"92\" on the back. On the right side, a physical altercation occurs between two people. The timestamp reads \"21-09-2014 02:32:58\". Safety note: The image depicts physical aggression.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "92",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "21-09-2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 4,
+    "context": "fighting",
+    "description": "This security camera image shows a building lobby. A four-bulb chandelier and a single pendant light illuminate the space. In the center, two yellow caution signs sit on a polished floor near stanchions and ropes. A round table with a green tablecloth is on the left. A person is visible behind glass doors in the background.",
+    "named_entities": [
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 5,
+    "context": "fighting",
+    "description": "This CCTV image shows a triage waiting area with rows of chairs. In the foreground, multiple individuals are involved in a physical altercation on the floor. Other people watch from the sidelines, including a man in a wheelchair. Safety Note: This image depicts a scene of physical violence.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "fighting",
+    "description": "Low-quality CCTV footage dated March 28, 1999, shows a group outside \"The Black Swan\" on Bridge Street. On the right, several individuals are engaged in a physical altercation. One person lies on the pavement to the left, while others stand nearby. Safety Note: This image depicts scenes of physical violence.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "March 28, 1999",
+        "label": "DATE"
+      },
+      {
+        "text": "The Black Swan",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Bridge Street",
+        "label": "FAC"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "fighting",
+    "description": "A grainy, black-and-white CCTV still captures people gathered at a night scene. Several individuals cluster around a table or stall, while others stand in the background. A large pot on a stand is in the foreground next to a motorcycle. Due to low resolution, specific details are unclear. The image includes a 2015 timestamp and camera label.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "a night",
+        "label": "TIME"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 8,
+    "context": "fighting",
+    "description": "A low-resolution security camera image shows a crowded indoor social space, likely a bar or club. Numerous people are standing and sitting throughout the dark-floored room. Some individuals gather in clusters while others are at tables. Bright lights are visible in the background and near the ceiling. Due to low image quality, specific details are unclear. Confidence Score: 0.8.",
+    "named_entities": [
+      {
+        "text": "0.8",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 9,
+    "context": "fighting",
+    "description": "A grainy CCTV image from December 2012 shows a group of people at night. In the foreground, a person wears a yellow and dark horizontal striped shirt. Several others stand nearby in a crowded, dimly lit area. Top-left text mentions \"New Briggate\" and a timestamp of 03:40. The overall scene is blurry and low-quality.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "December 2012",
+        "label": "DATE"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "New Briggate",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "fighting",
+    "description": "This surveillance image shows a room with metal bars, appearing to be a holding cell. One person lies face down on the floor. Several others are present, including a person in a blue shirt interacting with a man by the bars. Note: The image contains a sensitive scene within a correctional facility setting.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 11,
+    "context": "fighting",
+    "description": "An indoor view shows an arm reaching to open a white door with a decorative diamond-patterned glass window. Through the partially open door, another person stands outside on a light-colored ground. A textured glass panel to the left shows a blurry outdoor scene. The person inside wears a wristwatch and rings.",
+    "named_entities": []
+  },
+  {
+    "video_index": 12,
+    "context": "fighting",
+    "description": "This black and white CCTV image captures a physical struggle involving three men. One individual in a white shirt is being restrained by two others near a dark counter and tiled floor. Safety note: This image depicts a violent physical altercation. Confidence score: High.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "fighting",
+    "description": "This black and white CCTV image from 2016 shows the interior of a small shop. Several people are present. In the foreground, a man in a light jacket walks left as another man in a striped shirt touches his arm. White plastic chairs, a table, and shelves are visible. A \"Live Leak\" logo and timestamp appear on screen.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "A \"Live Leak\"",
+        "label": "LAW"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "fighting",
+    "description": "This grainy security camera image shows a convenience store interior. On the left, a person in dark clothing sits near refrigerated drink cases. To the right, shelves are stocked with snacks behind a checkout counter. Text at the bottom displays \"EACH PLAY [M]\" and a timestamp \"2012/10/09 23:05:06\". Top overlays show \"1\" and \"89%\".",
+    "named_entities": [
+      {
+        "text": "2012/10/09 23:05:06",
+        "label": "DATE"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "89%",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "video_index": 15,
+    "context": "fighting",
+    "description": "CCTV footage from a convenience store shows a physical struggle. In the background, two individuals are engaged in an altercation near a doorway. A person in a light-colored shirt stands in the foreground. The shop contains shelves of merchandise and a tobacco display. *Safety note: This image depicts physical violence.*",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 16,
+    "context": "fighting",
+    "description": "This street scene shows several cars parked along a curb and others driving. In the foreground, two individuals cross the road. Further back, a small group stands near a person lying on the street near a crossing. Trees and buildings are visible on the right. Safety note: The image depicts a potential accident or injury.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 17,
+    "context": "fighting",
+    "description": "A black and white security camera image shows a person lying face down in an underground hallway. In the distance, other people walk away or stand by a doorway. The top right corner contains a timestamp from 2013 and \"CAMERA 3.\" Safety note: The image shows an individual collapsed in a public walkway, which may be distressing.",
+    "named_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 18,
+    "context": "fighting",
+    "description": "A low-resolution CCTV image from 2011 shows about ten men in an indoor recreational area. A green pool table sits in the center. Men in casual clothes are moving around, suggesting a commotion. Bottles lie on the floor near several red chairs. A large wooden table and \"CAM 3\" text are also visible.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      },
+      {
+        "text": "ten",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "CAM 3",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "video_index": 19,
+    "context": "fighting",
+    "description": "This elevated shot shows a group of people gathered on a stone-paved walkway at night. One individual in a light-colored shirt faces the camera, while others stand close together, interacting. The image is low-resolution and blurry, limiting clear detail. A white rectangular object is visible on the right edge. The scene appears to be a public social gathering.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 20,
+    "context": "fighting",
+    "description": "Safety note: This image depicts a potential confrontation. \n\nA grainy nighttime image shows several people standing near a dark car with an open door. A white SUV is stopped nearby on the street. Other vehicles are visible in the background. Due to low resolution, the exact nature of the interaction is unclear. Text \"Evening Standard / eyevine\" is at the bottom.",
+    "named_entities": []
+  },
+  {
+    "video_index": 21,
+    "context": "fighting",
+    "description": "This grainy surveillance image shows a large crowd of people at an outdoor night event. Individuals are standing and walking between tables and awnings. A motorized rickshaw is parked on the right. A timestamp in the top right corner reads \"2016-04-13 22:50:52,\" and an \"IPC\" logo is in the bottom left.",
+    "named_entities": [
+      {
+        "text": "2016-04-13",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 22,
+    "context": "fighting",
+    "description": "Safety note: This image depicts a physical struggle. Two men are shown in a confrontation near a store entrance. One man in a white shirt is holding another man in dark clothing against a wall. Glass sliding doors with yellow logos and an exit sign are in the background. This is a low-resolution security camera still.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Glass",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 23,
+    "context": "fighting",
+    "description": "A security camera frame shows a crowded shop interior on 2015-05-04. Multiple men are gathered around glass display counters. Two individuals wear tan uniforms similar to police attire. The high-angle view captures various products on shelves in the background. The text \"CH 01\" and a timestamp are visible at the bottom and top.",
+    "named_entities": [
+      {
+        "text": "2015-05-04",
+        "label": "DATE"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 24,
+    "context": "fighting",
+    "description": "This high-angle surveillance image depicts a multi-level common area in a correctional facility. Numerous individuals in white uniforms are visible; some sit at fixed metal tables, while others stand or walk across the floor. The background features two tiers of cell doors and a metal staircase connecting the levels. The setting is structured with concrete and brick.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 25,
+    "context": "fighting",
+    "description": "This low-resolution CCTV image from \"CAM07\" depicts a restaurant with wooden tables and pink plastic chairs. One person stands in a blue shirt, while another lies on the floor nearby. Tables are set with various dishes. A timestamp displays 09-08-2014 at 11:43 PM. Note: The scene shows an individual on the ground, potentially indicating an incident.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "09-08-2014",
+        "label": "DATE"
+      },
+      {
+        "text": "11:43 PM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 26,
+    "context": "fighting",
+    "description": "CCTV footage shows a black hatchback parked in a car service area. A person in a pink sweater walks away from the vehicle while another person in white stands nearby. The background features a black sedan, car cleaning equipment, a red cone, and more people. A timestamp and \"CAM08\" label are visible on the screen.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "CAM08",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 27,
+    "context": "fighting",
+    "description": "Low-resolution security footage shows a physical altercation inside a grocery store. Two individuals are seen grappling near the entrance, one wearing a light blue shirt. Shelves filled with various products line the aisles. A \"LiveLeak\" watermark and timestamp are visible at the top. Note: This image contains a scene of physical violence.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 28,
+    "context": "fighting",
+    "description": "This low-resolution security camera image shows a store interior. In the foreground, a white cash register is on a counter. At least two people are lying on the floor: one near the counter and another in an aisle lined with shelves of bottles. Note: The image depicts a potentially distressing scene with individuals on the ground.",
+    "named_entities": [
+      {
+        "text": "At least two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 29,
+    "context": "fighting",
+    "description": "A dimly lit alleyway at night features several people walking and standing. A small group is positioned in the center, while others walk nearby. Multiple motorbikes are parked along both sides of the street. Storefronts are visible in the background, and a tall purple sign with Chinese text stands in the foreground on the right.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 30,
+    "context": "fighting",
+    "description": "A surveillance image shows a city street corner with several pedestrians. A large dark pickup truck is parked in the foreground. Other people stand or walk near a bicycle and traffic cones. In the background, a car drives past trees. A timestamp (04-18-2016) and a \"PC\" logo are visible on the screen.",
+    "named_entities": [
+      {
+        "text": "04-18-2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 31,
+    "context": "fighting",
+    "description": "Low-resolution security footage shows several uniformed individuals engaged in a physical scuffle within an indoor institutional setting. The scene includes a grey door, a wall-mounted monitor, and a curved desk with a green base. A LiveLeak watermark and a 2017 timestamp are visible. Safety note: This image contains depictions of a physical confrontation.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 32,
+    "context": "fighting",
+    "description": "A CCTV recording in a concrete tunnel shows a person in a gray hoodie leaning against a wall. As another individual walks past, the person in the hoodie suddenly punches and tackles them to the ground. Two more people are visible in the background. Safety note: This video depicts physical violence and assault.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 33,
+    "context": "fighting",
+    "description": "A grainy CCTV image shows a red double-decker bus on a city street. A person lies on the ground near a red bus stop sign in front of the vehicle. Pedestrians walk nearby. The image includes a LiveLeak watermark. Safety Note: The scene depicts a person potentially involved in an accident or medical emergency.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Pedestrians",
+        "label": "NORP"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 34,
+    "context": "fighting",
+    "description": "A low-resolution image shows the interior of a bus with a \"LiveLeak\" watermark. A person in a grey and black jacket stands near a metal handrail. Another individual is partially visible sitting in the background. The upper half of the image is heavily blurred, obscuring people and actions in that area. Confidence in identifying blurred details is low.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 35,
+    "context": "fighting",
+    "description": "Safety note: This image contains physical violence. A low-resolution, black-and-white video shows a person standing over and repeatedly striking another person lying on the ground. The event occurs outdoors near a street curb and pole. \"LiveLeak\" and camera metadata overlays are present. Due to low quality, specific features of the people are unclear.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 36,
+    "context": "fighting",
+    "description": "Low-resolution surveillance footage shows a street at night. A person in light clothing walks on the right. A wooden bench and bollard sit on a paved sidewalk. Bike racks are visible at the bottom. A timestamp reads May 23, 2008, at 22:45:13. Due to grainy quality, background figures and specific details are uncertain.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Bike",
+        "label": "ORG"
+      },
+      {
+        "text": "May 23, 2008",
+        "label": "DATE"
+      },
+      {
+        "text": "22:45:13",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 37,
+    "context": "fighting",
+    "description": "Low-resolution 2013 CCTV footage shows a restaurant interior. Two individuals in white are on the floor, while a person in a green shirt stands nearby. Background figures are near a counter and windows. Safety note: The scene depicts a tense situation, possibly an altercation. Confidence is medium due to image blurriness.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 38,
+    "context": "fighting",
+    "description": "A grainy, black-and-white security image captures two individuals wearing hoodies on a dark sidewalk. One person stands slightly behind the other. A brightly lit cylindrical object appears to the right. A timestamp \"2010-11-21 2:30:41\" is at the top. Due to low image quality, facial features are unclear. Confidence score: 0.8.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2010-11-21",
+        "label": "DATE"
+      },
+      {
+        "text": "0.8",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 39,
+    "context": "fighting",
+    "description": "A grainy black and white CCTV image shows an outdoor street at night. Two cars are visible, one light-colored in the foreground and one dark-colored further back. Two individuals appear to be engaged in a physical struggle near the light-colored car. Note: This image depicts physical violence. A timestamp and camera label are visible on the screen.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 40,
+    "context": "fighting",
+    "description": "A security camera capture shows the interior of a convenience store on January 1, 2013, at 2:03 AM. Multiple people are browsing aisles stocked with snacks and household goods. A person in dark clothing stands near the center. Visible details include a red \"Virgin\" sign, a yellow caution sign, and a \"Boost Mobile\" machine.",
+    "named_entities": [
+      {
+        "text": "January 1, 2013",
+        "label": "DATE"
+      },
+      {
+        "text": "2:03 AM",
+        "label": "TIME"
+      },
+      {
+        "text": "Boost Mobile",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 41,
+    "context": "fighting",
+    "description": "Safety note: This image depicts physical violence.\n\nLow-quality CCTV footage shows two men in dark jackets at a building entrance. One man is hitting the other in the face. An overturned trash can sits on the floor near glass doors. The image includes a wall poster and a timestamp at the bottom. Confidence score: High.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 42,
+    "context": "fighting",
+    "description": "High-angle security footage shows a white van with its headlights on. A man in a white t-shirt and cap is positioned against the van’s front passenger side. Another man in a black t-shirt stands near the front driver's side corner. The scene occurs outdoors on a paved area next to a fence and a road.",
+    "named_entities": []
+  },
+  {
+    "video_index": 43,
+    "context": "fighting",
+    "description": "Low-quality CCTV footage shows a group of about nine people in an outdoor paved area near a gate. A yellow \"caught on camera\" label is in the corner. Most individuals are standing in a cluster wearing dark clothing, while one person in a white shirt is bent over on the ground. Confidence is medium due to image blurriness.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "about nine",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 44,
+    "context": "fighting",
+    "description": "A nighttime security camera image shows a cobblestone street. In the foreground, two security guards in dark jackets stand on the right. Several people walk across the street, while a crowd gathers in the background near a building with blue lighting. On the left, more individuals stand near a brick wall and doorway.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 45,
+    "context": "fighting",
+    "description": "A low-resolution surveillance image shows an internet cafe dated September 8, 2013. Several young men are present; some sit at computer stations with green chairs, while a group stands together in the background. The room features rows of desks with monitors and keyboards. Thai text \"กล้อง 1\" and a timestamp appear on the screen.",
+    "named_entities": [
+      {
+        "text": "September 8, 2013",
+        "label": "DATE"
+      },
+      {
+        "text": "Thai",
+        "label": "NORP"
+      },
+      {
+        "text": "กล้อง 1",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "video_index": 46,
+    "context": "fighting",
+    "description": "Security camera footage shows an auto repair shop with blue car lifts. Seven people stand or walk around a large brown liquid spill on the floor. Tools, tires, and oil barrels are visible against the walls. Most of the group is looking at the spill area near the lift. (50 words)",
+    "named_entities": [
+      {
+        "text": "Seven",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "50",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 47,
+    "context": "fighting",
+    "description": "Grainy nighttime security footage shows five people standing around debris in a street intersection. A damaged object, possibly a vehicle, lies near a corner building labeled \"GRANJA San Adrián.\" Note: The image depicts the aftermath of a possible accident. Confidence score: Moderate due to low resolution.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "five",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "San Adrián",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "video_index": 48,
+    "context": "fighting",
+    "description": "Inside a train car, a person in dark clothing sits on a bench while another individual performs an acrobatic maneuver mid-air, holding onto vertical handrails. A third person is slumped on a seat across the aisle. The blurry, low-resolution image shows a scene of high motion or a stunt. Confidence score: 0.9.",
+    "named_entities": [
+      {
+        "text": "third",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 49,
+    "context": "fighting",
+    "description": "This grainy CCTV image shows an indoor internet cafe with rows of computer desks and monitors. Several people are present, with some sitting at desks and others standing in the aisles. A timestamp at the top reads \"2013-08-23 19:03:08,\" and \"CAM07\" is labeled at the bottom left. The computer screens are lit up in the dimly lit room.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2013-08-23",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 50,
+    "context": "fighting",
+    "description": "Safety Note: This image depicts physical violence.\n\nIn a shop, several individuals are engaged in a physical struggle on the floor. A person in a light blue shirt appears to be restraining another individual. A person in a dark hooded jacket stands nearby. Magazine racks and a red stool are visible on the right side of the frame.",
+    "named_entities": []
+  }
+]

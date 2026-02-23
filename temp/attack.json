@@ -1,0 +1,628 @@
+[
+  {
+    "video_index": 1,
+    "context": "attack",
+    "description": "This nighttime CCTV image shows a person lying motionless on a brick-paved street. Several people are nearby, including a man in a white shirt walking toward them. The image includes a 2013 timestamp and \"LiveLeak\" logo. Safety note: The image depicts a potentially injured person. The cause of the situation is unclear.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 2,
+    "context": "attack",
+    "description": "This CCTV image shows a bar or cafe interior. A person in a blue tracksuit lies face down on the floor next to a knocked-over bar stool. Two people stand in the background. The room includes a bar counter, tables, and chairs. On-screen text indicates a 2013 timestamp and a Russian location. Safety note: image depicts a possible incident.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "Russian",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 3,
+    "context": "attack",
+    "description": "A low-resolution grayscale surveillance image shows a dark van parked on a street. The front passenger door is open, and a figure stands beside it. Trees and shadows line the sidewalk. Text at the bottom identifies the feed as \"CAMERA 08.\" The scene is grainy, and specific facial features or details are not visible.",
+    "named_entities": [
+      {
+        "text": "08",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 4,
+    "context": "attack",
+    "description": "A grainy security camera image shows a retail store interior. A cash register sits on a counter at the left. In the foreground, the top of a blonde-haired person's head is visible. Two men in grey sweatshirts are in the background, one near the counter and another by a doorway. Merchandise-filled shelves line the walls.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 5,
+    "context": "attack",
+    "description": "This 2012 CCTV image shows a reception area. One person sits behind a white counter equipped with a cash register and card terminals. Another person stands on the opposite side, though they appear blurry. The background includes office furniture and a doorway. The image quality is low, causing uncertainty about the standing person's identity and actions. Confidence: Moderate.",
+    "named_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "attack",
+    "description": "A grainy, black-and-white security camera image shows a driveway at night. A dark car is parked on the right. A person in light-colored shoes is captured in motion, appearing to fall or jump in the bottom right corner. Text overlays show the date \"17/04/2014\" and time \"21:52:22\". A light-colored hedge separates the yard from the street.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "21:52:22",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "attack",
+    "description": "A CCTV image dated 2012 shows a person lying face down on a paved sidewalk next to a parked white van. A blue car and a walking figure are in the background. Labels \"CAM 4\" and \"13-11-2012 12:36:34\" are visible. Safety note: This image depicts a person who appears potentially injured or incapacitated.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "CAM 4",
+        "label": "LAW"
+      },
+      {
+        "text": "13-11-2012",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 8,
+    "context": "attack",
+    "description": "A grainy CCTV image shows the dimly lit interior of a pub at 4:04 AM on August 9, 2012. A man sits in the foreground, while two other individuals stand near a bar counter in the background. Scattered chairs and tables fill the room. Confidence is moderate due to the low-quality, low-resolution footage.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "4:04 AM",
+        "label": "TIME"
+      },
+      {
+        "text": "August 9, 2012",
+        "label": "DATE"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 9,
+    "context": "attack",
+    "description": "CCTV footage shows a city street at night. Several cars are present, including one with bright red taillights. People are on the sidewalks, and one person stands in the middle of the road. Trees line a parking area on the right. Low resolution limits specific details. A timestamp indicates July 16, 2014, at Bloom and Sackville Streets.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "July 16, 2014",
+        "label": "DATE"
+      },
+      {
+        "text": "Bloom and Sackville Streets",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "attack",
+    "description": "Grainy CCTV footage from 2016 depicts a wet parking lot at night. A white sedan is parked on the right side. On the left, a person stands near metal bollards where a bright, intense light is flashing. Safety note: The image captures a potential hazardous fire or explosion.",
+    "named_entities": [
+      {
+        "text": "Grainy CCTV",
+        "label": "PERSON"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 11,
+    "context": "attack",
+    "description": "A grainy, high-angle nighttime image shows a street scene. On the left, white cars are parked in a row. On the sidewalk, a group of people in dark clothing are gathered; one person appears to be held or escorted by others. Bare trees and buildings flank the right side. Due to low light, specific identities are unclear.",
+    "named_entities": [
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 12,
+    "context": "attack",
+    "description": "A grainy black-and-white security camera image shows a crowded outdoor courtyard at night. Numerous people are standing, walking, and sitting in an open area between bushes. A text overlay at the top identifies \"Camera 114\" with a date of \"05/07/2015\" and a timestamp. The low-light footage has medium visual clarity.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "05/07/2015",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "attack",
+    "description": "CCTV footage from \"14 Octagon Union St\" shows a group of about twenty people on a sidewalk. One person lies on the pavement while others gather around. Two silver cars are parked along the curb. Text overlays display the date \"05/08/12\" and time \"06:02:28.\" The scene takes place in front of white and blue buildings.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "14",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "about twenty",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "06:02:28",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "attack",
+    "description": "A high-angle surveillance-style shot shows a modern indoor seating area. Two people walk past large wooden platforms topped with blue and gray pads. A yellow bench and colorful cushions are visible in the background. White Y-shaped fixtures hang above the wooden structure. Text at the bottom identifies the source as \"Illawarra Mercury.\"",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 15,
+    "context": "attack",
+    "description": "A security camera image shows the interior of a convenience store with a tiled floor. A man in a dark jacket stands with his back to the camera. Another person lies on the floor near a checkout counter in the bottom right corner. Shelves of merchandise and jars of snacks fill the space. The timestamp reads 02/03/2013.",
+    "named_entities": []
+  },
+  {
+    "video_index": 16,
+    "context": "attack",
+    "description": "A black-and-white security camera image shows a residential street at night. A dark SUV is positioned in the center on a wet road. Light-colored cars are parked along the curb near houses with stairs. In the foreground, there is a rectangular hedge and trash bins. A timestamp and \"CAM04\" label are visible on the screen.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 17,
+    "context": "attack",
+    "description": "Grainy nighttime CCTV footage shows two figures in dark clothing standing on a patch of grass. Behind them is a paved road, and a low stone wall is in the foreground. One figure appears to be moving toward the other. Safety note: This image potentially depicts a confrontation or criminal activity. Confidence score: High for visible elements.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 18,
+    "context": "attack",
+    "description": "Safety note: This image depicts a physical confrontation. This low-resolution surveillance footage from 2011 shows multiple individuals involved in a physical altercation on a tiled surface. From a high angle, several men are seen pushing, grabbing, and surrounding one another in a dimly lit environment. A timestamp and channel label appear at the top.",
+    "named_entities": [
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 19,
+    "context": "attack",
+    "description": "Security camera footage shows a quiet city street at night. A dark sedan is parked on the right side. On the left, two black trash bins sit on a concrete sidewalk near a building with a gated doorway. A timestamp at the top displays \"04/27/2013 05:04:26.\" Overhead lighting creates bright highlights on the ground and car.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "04/27/2013 05:04:26",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 20,
+    "context": "attack",
+    "description": "A low-resolution image shows a person with a backpack and pink shirt inside an elevator. Another figure on the left is blurred, appearing to engage in a physical confrontation. The background consists of metallic walls with small posted signs. Safety Note: The image depicts a potential physical assault. Confidence score: Low due to significant pixelation.",
+    "named_entities": []
+  },
+  {
+    "video_index": 21,
+    "context": "attack",
+    "description": "A security camera captures a man wearing a bucket hat and camouflage pants standing in a brick hallway. He faces another man in a light blue shirt. In the background, an outdoor swimming pool area is visible under bright sunlight. A sign is posted on the left brick wall, and a window is on the right.",
+    "named_entities": []
+  },
+  {
+    "video_index": 22,
+    "context": "attack",
+    "description": "This 2012 CCTV image shows a silver hatchback car stopped on a paved area near a building entrance. Three figures are present: one stands holding an umbrella, while two others appear to be in a physical confrontation near the car's open passenger door. Safety note: The image depicts a potentially violent incident. Confidence score: Medium due to low resolution.",
+    "named_entities": [
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 23,
+    "context": "attack",
+    "description": "A low-quality nighttime image shows a physical struggle between two people on a sidewalk. One person wears a white t-shirt. On the right, signs display \"CAMERA AHEAD\" and a \"60\" speed limit. *Safety note: This image depicts physical violence.* Due to blurriness, the exact nature of the interaction is uncertain. Confidence: Moderate.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "60",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 24,
+    "context": "attack",
+    "description": "A grayscale security image captures a bar scene. Two male bartenders work behind a white, U-shaped counter stocked with bottles and a \"Red Bull\" mat. Several people stand on the customer side, including a group of women in the foreground. One bartender wears a striped tank top. A computer monitor is visible in the background.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Red Bull",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 25,
+    "context": "attack",
+    "description": "This grainy security camera image from 2013 shows a dimly lit indoor setting with several people. In the center, a man in a white shirt and dark pants faces another person who is gesturing with their arms. The top of the image features a \"LiveLeak\" logo and a timestamp reading \"22/09/2013 01:23:38.\" Confidence score: 4/5 due to low resolution.",
+    "named_entities": [
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "22/09/2013",
+        "label": "DATE"
+      },
+      {
+        "text": "01:23:38",
+        "label": "TIME"
+      },
+      {
+        "text": "4/5",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 26,
+    "context": "attack",
+    "description": "Security footage from 8/18/2009 at 17:53:21 shows two men in a physical altercation inside a laundromat. One man in a light blue shirt pushes another in a red shirt against the machines. The room features tiled floors and rows of washers. Safety note: This image depicts a physical fight between individuals.",
+    "named_entities": [
+      {
+        "text": "8/18/2009",
+        "label": "DATE"
+      },
+      {
+        "text": "17:53:21",
+        "label": "DATE"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 27,
+    "context": "attack",
+    "description": "A black-and-white security camera image captures a residential street at 3:32 AM on May 13, 2012. A sedan and pickup truck are parked in the middle ground. The foreground features a lawn with small landscape lights. A blurry figure appears near the parked vehicles. A stop sign and streetlights are visible in the background. Confidence score: High.",
+    "named_entities": [
+      {
+        "text": "3:32 AM",
+        "label": "TIME"
+      },
+      {
+        "text": "May 13, 2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 28,
+    "context": "attack",
+    "description": "A security camera still captures a shop interior. One man in a grey and red shirt stands near a white door. Another man in a checkered shirt is behind a counter on the right. A foreground desk holds a computer monitor, telephone, and papers. Shelves filled with items and a black sofa are visible in the background.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 29,
+    "context": "attack",
+    "description": "A grainy CCTV image shows a street scene with a silver car in the foreground. A person stands near another individual lying on the pavement. A bicycle is parked nearby, with a white van and buildings in the background. Safety Note: The image depicts what appears to be an accident or medical emergency involving a person on the ground.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 30,
+    "context": "attack",
+    "description": "Grainy, black and white surveillance footage shows approximately seven people at a building's entrance. One person stands near stairs on the left, while others cluster around an open doorway illuminated by bright light. Safety note: The image captures a potential physical confrontation. Due to low resolution, specific actions and identities are difficult to discern.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "approximately seven",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 31,
+    "context": "attack",
+    "description": "A silver train with a red stripe is stopped at a snow-covered station platform. Several people in winter clothing are walking or standing nearby. Snow covers the ground and the top of the train. A glass structure and metal railings line the right side of the platform under a high-angle view.",
+    "named_entities": [
+      {
+        "text": "winter",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 32,
+    "context": "attack",
+    "description": "This black and white surveillance footage shows a person lying on a concrete sidewalk. Another person kneels nearby, reaching toward them. A blurred figure is in the foreground, and a potted plant is on the right. A timestamp indicates May 2016. Safety note: The image depicts a person in a potentially distressing situation.",
+    "named_entities": [
+      {
+        "text": "May 2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 33,
+    "context": "attack",
+    "description": "Low-resolution security footage shows a street with parked cars and a red car driving. On the sidewalk, a group of people stands near a dark car where one person is lying on the ground. The scene is captured from an elevated angle with a timestamp visible. Note: A person appears to be down on the pavement.",
+    "named_entities": [
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 34,
+    "context": "attack",
+    "description": "A congested street scene shows numerous cars and pedestrians. Students in white uniforms and backpacks walk along a yellow wall on the left. A white car with a yellow license plate is in the foreground, followed by a blue car. A motorcyclist and other vehicles fill the road. Green trees line the background.",
+    "named_entities": []
+  },
+  {
+    "video_index": 35,
+    "context": "attack",
+    "description": "Security camera footage captures a person in a white hoodie and red cap walking inside a pub. A round high-top table is in the foreground. The background includes a pool table, a bar counter decorated with bunting, and wall posters. The image is grainy and features a LiveLeak watermark in the corner.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 36,
+    "context": "attack",
+    "description": "A security camera still from a convenience store shows two individuals in a physical struggle on a tiled floor. One person in a light-colored top is falling, while a blurred figure moves over them. Shelves of merchandise line the background. Note: This image depicts a physical altercation. Confidence score: High regarding the action, lower on individual details due to blur.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 37,
+    "context": "attack",
+    "description": "A grainy, black-and-white surveillance image shows a street at night. Two individuals in dark clothing stand together; one appears to point an object toward a third person crouching on the right. A bright flash is visible on the ground. Logos for LiveLeak, RT, and RUPTLY are present. Safety note: This image depicts potential violence.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "GPE"
+      },
+      {
+        "text": "RT",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "video_index": 38,
+    "context": "attack",
+    "description": "A low-quality, nighttime image shows a physical altercation between several people on a sidewalk outside a McDonald's. One individual is lying on the ground while others appear to be striking them. A LiveLeak logo is visible in the top left corner. **Safety Note: This image contains scenes of physical violence.**",
+    "named_entities": [
+      {
+        "text": "McDonald",
+        "label": "ORG"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      }
+    ]
+  }
+]

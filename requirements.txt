@@ -10,6 +10,7 @@ requests
 Pillow
 python-dotenv
 google-genai
+spacy
 
 # Optional: Gemini API
 

@@ -1,0 +1,644 @@
+[
+  {
+    "video_index": 1,
+    "context": "burglary",
+    "description": "Security camera footage from December 4, 2014, shows a person in a dark jacket hunched over inside a store. A glass storefront is shattered, with broken frames and debris scattered across the floor. Shelves and a parked car are visible. Safety note: This image depicts a potential crime scene involving property damage.",
+    "named_entities": [
+      {
+        "text": "December 4, 2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 2,
+    "context": "burglary",
+    "description": "This black-and-white image shows a person in light clothing crouching near a bright light source in a cluttered garage. The room contains a treadmill, an ATV, a golf cart, a large industrial fan, and shelving units filled with items. A ball sits on the floor near the center. The scene is high-contrast and slightly grainy.",
+    "named_entities": [
+      {
+        "text": "ATV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 3,
+    "context": "burglary",
+    "description": "A grainy, black-and-white security image shows a man in a light-colored shirt inside a storage unit or truck. He is surrounded by stacks of cardboard boxes and rectangular panels. The man is hunched over, looking at the items. The ceiling features horizontal beams, and vertical structures line the right wall.",
+    "named_entities": []
+  },
+  {
+    "video_index": 4,
+    "context": "burglary",
+    "description": "A grainy security image shows a storefront with a shattered glass door at night. A dark, tilted machine sits among debris on the floor. On the right, a person stands behind a counter. Outside, a dark vehicle is parked near a bright neon sign. The image captures significant property damage to the building's entrance.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 5,
+    "context": "burglary",
+    "description": "Security camera footage shows a person in a white t-shirt and dark shorts standing on a concrete walkway outside a brick house. The person is looking down at a hand-held device. Next to the door is a lit porch light and a doormat. A rectangular gravel area and a grassy lawn are visible in the yard.",
+    "named_entities": []
+  },
+  {
+    "video_index": 6,
+    "context": "burglary",
+    "description": "A low-resolution CCTV image shows a white pickup truck that has crashed through a store's glass entrance. A person in dark clothing is crouched on the floor in the foreground. Shelves with various containers are on the right, and an ATM is on the left. Safety note: This image depicts a vehicle accident and property damage.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "ATM",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "burglary",
+    "description": "A high-angle security image shows a dining area with tiled floors. Multiple brown tables and red chairs are present. One red chair is tipped over on its side, and a table nearby is tilted. In the background, a counter holds a microwave and coffee machines. A timestamp and \"Digital Surveillance\" text appear on the screen.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Digital Surveillance",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 8,
+    "context": "burglary",
+    "description": "A low-resolution security image shows a convenience store interior with several individuals in dark clothing. One person is behind the counter, and others are near items scattered on the floor. Snack aisles and refrigerators are visible in the background. Safety note: This image depicts a scene suggestive of a potential store disturbance or criminal activity.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 9,
+    "context": "burglary",
+    "description": "A grainy surveillance image captures three people at an ATM. One individual in a blue outfit is using the machine while two others stand closely behind them. The scene includes a tiled floor, a brick wall, and a storefront with a yellow sign on the right. The setting appears to be outdoors or in a public walkway.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "ATM",
+        "label": "ORG"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "burglary",
+    "description": "A low-resolution surveillance image shows two individuals in dark clothing inside a room. One person is swinging a tool toward an overturned white panel. Debris covers the floor. A desk and white vehicle are visible. Uncertainty: Details are blurry due to low quality. Safety note: This image depicts property damage and potential criminal activity.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 11,
+    "context": "burglary",
+    "description": "Grainy CCTV footage shows a person in a blue shirt standing behind a store counter. Several rifle-like firearms are scattered on the floor nearby. The person is holding a long gun. Shelved merchandise is visible in the background under low light. Safety note: This image contains firearms.",
+    "named_entities": [
+      {
+        "text": "Grainy CCTV",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 12,
+    "context": "burglary",
+    "description": "Grainy security footage shows two individuals in blue hooded sweatshirts and dark pants tampering with two ATMs. The left ATM's front panel is open, exposing internal components. Both individuals have their heads covered. Tools or debris lie on the floor. Note: This image depicts a potential criminal act involving property damage or theft.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "ATM",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "burglary",
+    "description": "A grainy, black-and-white surveillance image shows three people walking outside at night. A parked vehicle is on the left, and a signpost with a disability symbol is in the center. A building with a door is visible in the background. Due to low resolution, specific details are unclear. A \"Leak\" watermark is in the top-left corner.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "Leak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "burglary",
+    "description": "A low-resolution security camera image from August 13, 2011, shows the interior of a convenience store. Several individuals are standing and walking through aisles stocked with various snacks and merchandise. Refrigerated display cases are visible in the background. The lighting is bright and typical of a commercial setting. (48 words)",
+    "named_entities": [
+      {
+        "text": "August 13, 2011",
+        "label": "DATE"
+      },
+      {
+        "text": "48",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 15,
+    "context": "burglary",
+    "description": "This grainy security camera image shows a person in dark clothing among several green riding lawn mowers at night. An orange minivan with its trunk open is parked behind the mowers. Text at the top and bottom identifies the footage from the Reidsville Police Department, dated June 6, 2012. The scene is located in a paved outdoor lot.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "the Reidsville Police Department",
+        "label": "ORG"
+      },
+      {
+        "text": "June 6, 2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 16,
+    "context": "burglary",
+    "description": "Low-resolution surveillance footage captures a reception counter with two printers and a desk lamp. A person is partially visible on the right. The interior background shows columns and an open space. A timestamp at the bottom right reads \"21-11-2005 04:24:43\". Due to low image quality, fine details are unclear.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "21-11-2005",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 17,
+    "context": "burglary",
+    "description": "This grayscale security footage from 01/04/2017 shows a person wearing a hooded jacket and a patterned mask. The individual is leaning over a low wall toward a building. A car is parked on a brick driveway to the left. Note: This image depicts potentially suspicious or criminal activity.",
+    "named_entities": []
+  },
+  {
+    "video_index": 18,
+    "context": "burglary",
+    "description": "A security camera captures a person in a blue and white cap reaching through a counter opening. They wear a black glove and hold a white flat box. Two point-of-sale monitors are visible on the left, and a stack of boxes is on the right. A timestamp reads \"02/03/2016 22:04:52\" at the top of the frame.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "22:04:52",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 19,
+    "context": "burglary",
+    "description": "A high-angle security camera view captures a store interior labeled \"Retail Front.\" On the right, a person stands behind a service counter next to product shelves. The left side features a glass storefront and a waiting area with blue chairs and a couch. A yellow timestamp at the bottom indicates the date September 14, 2008.",
+    "named_entities": [
+      {
+        "text": "Retail Front",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "September 14, 2008",
+        "label": "EVENT"
+      }
+    ]
+  },
+  {
+    "video_index": 20,
+    "context": "burglary",
+    "description": "A grainy security camera image from June 18, 2015, at 4:03 AM shows a white flatbed truck parked at night. A person in dark clothing stands between the back of the truck and a large, white, corrugated structure. The truck features \"MORRIS\" and \"Miller Since 1903\" logos. The low resolution makes the person's actions unclear.",
+    "named_entities": [
+      {
+        "text": "June 18, 2015",
+        "label": "DATE"
+      },
+      {
+        "text": "4:03 AM",
+        "label": "TIME"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "MORRIS",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Miller",
+        "label": "PERSON"
+      },
+      {
+        "text": "1903",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 21,
+    "context": "burglary",
+    "description": "A grainy surveillance image shows a person in dark clothing standing before a door, hands near the lock. A crowbar lies on the ground. A timestamp reads \"02/03/2012 17:38:36 00\". Safety note: This image depicts a potential burglary. Confidence is moderate due to low image resolution.",
+    "named_entities": [
+      {
+        "text": "17:38:36",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 22,
+    "context": "burglary",
+    "description": "This grayscale, top-down security camera image shows a cluttered workstation. The counter holds a keyboard, electronic card reader, and various papers. Underneath is a white cabinet with small doors. A glass-door vending machine or cooler stands on the right side. The floor on the left is mostly in shadow.",
+    "named_entities": []
+  },
+  {
+    "video_index": 23,
+    "context": "burglary",
+    "description": "In this black and white security image, a man in a light hoodie and dark pants stands on the left, reaching toward a wall-mounted television. The room features a tiled floor, a central chair, and a couch on the right. A brick fireplace with a mantel is in the background next to a hallway.",
+    "named_entities": []
+  },
+  {
+    "video_index": 24,
+    "context": "burglary",
+    "description": "A grainy, low-resolution image shows a room with a central window, floral curtains, and a white roller blind. On the left is a shelf with items and a mirror. A glowing lamp and dark door are on the right. Part of a person’s head is visible in the foreground. A timestamp and watermark are at the top.",
+    "named_entities": []
+  },
+  {
+    "video_index": 25,
+    "context": "burglary",
+    "description": "CCTV footage shows an electronics store where a vehicle has crashed through the entrance. Bright headlights are visible in the background. A large wooden display table is overturned, and debris is scattered on the floor. Other tables with tablets remain upright. Safety note: This image depicts a vehicle crashing into a building.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 26,
+    "context": "burglary",
+    "description": "A black-and-white security camera image shows two people outdoors at night on December 13, 2015. One person wears a light-colored hoodie; the other wears a two-tone jacket and leans forward. The background features bushes and distant lit windows. Vertical lens flares are visible on the right. Text at the bottom reads \"TITANVORTEX 29 rear.\"",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "December 13, 2015",
+        "label": "DATE"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "29",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 27,
+    "context": "burglary",
+    "description": "Grainy security footage shows two people in white t-shirts looking inside an open refrigerator in a kitchen with dark cabinets. One person wears a blue cap and white gloves. A San Jose Police badge is in the top left, and a date/time stamp is in the top right corner.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "San Jose",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "video_index": 28,
+    "context": "burglary",
+    "description": "This grainy, black-and-white image depicts a person on the left dancing in an indoor space. The person appears partially undressed. A brightly lit doorway is centered in the background. To the right, a wall features a framed artwork and four dark circular accents. Safety Note: Contains suggestive content. Confidence Score: Low (60%) due to low resolution.",
+    "named_entities": [
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "60%",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "video_index": 29,
+    "context": "burglary",
+    "description": "A security camera image from 2:27 AM shows a person wearing a dark hooded jacket and jeans behind a red store counter. The individual is leaning toward the cash register area. Shelves filled with various products and a trash can are visible in the background. Safety note: This image depicts a potential unauthorized entry or robbery.",
+    "named_entities": [
+      {
+        "text": "2:27 AM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 30,
+    "context": "burglary",
+    "description": "A wide-angle nighttime shot from a doorbell camera shows a house entrance. A dark red door stands on the left. A bright porch light illuminates a stone pillar and the wooden ceiling. A dark vehicle is parked in the driveway to the right. The \"ring.com\" watermark is in the bottom-left corner. High confidence.",
+    "named_entities": []
+  },
+  {
+    "video_index": 31,
+    "context": "burglary",
+    "description": "A security camera image shows an indoor restaurant area with tall bar stools and small round tables near glass windows. A yellow wet floor sign and a dark rectangular object are on the light-tiled floor. A child's high chair sits near a table. A dark counter is in the foreground, and a wooden display is on the right.",
+    "named_entities": []
+  },
+  {
+    "video_index": 32,
+    "context": "burglary",
+    "description": "A grayscale security camera image captures a dark door slightly ajar at night. A bright light flare stretches across the center, with a mailbox visible on the left wall and foliage to the right. The top displays a timestamp of \"05/15/2016 10:38:01 PM\" and the text \"CH4\" in the upper-left corner.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "05/15/2016",
+        "label": "FAC"
+      },
+      {
+        "text": "10:38:01 PM",
+        "label": "TIME"
+      },
+      {
+        "text": "CH4",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 33,
+    "context": "burglary",
+    "description": "A high-angle shot shows a person in a hat and grey jacket leaning behind a bar counter. A large orange lampshade hangs prominently above the bar. To the left are three tall stools with orange seats. The background features shelves stocked with bottles and glassware. The image appears to be surveillance footage.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 34,
+    "context": "burglary",
+    "description": "This grainy CCTV image shows a man with a shaved head behind a counter. He wears a light-colored, long-sleeved shirt and interacts with objects on the counter. A timestamp reads \"04/15/2012 02:30:48\" and \"CH1\" at the top. The scene is a dimly lit interior, possibly a bar or shop.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 35,
+    "context": "burglary",
+    "description": "A black and white image shows a kitchen and dining area. In the center, a round table with four wooden chairs holds several papers. To the left, a person walks toward a kitchen counter. A laundry room is visible through a back doorway. Bright light shines through a sliding glass door on the right side of the room.",
+    "named_entities": [
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 36,
+    "context": "burglary",
+    "description": "This CCTV image shows a yard with a paved driveway and a lawn. A person stands at a green metal gate topped with razor wire. Behind the gate, a red car is parked on the street. Trees and buildings appear in the background. A timestamp is displayed in the upper-left corner.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 37,
+    "context": "burglary",
+    "description": "A person wearing a red long-sleeved shirt and dark pants ascends a carpeted staircase. To the right, a living area features a large sofa, a chandelier, and a television. A white paneled door is on the left near a kitchen counter. The scene is captured from a high-angle perspective inside a residential home.",
+    "named_entities": []
+  },
+  {
+    "video_index": 38,
+    "context": "burglary",
+    "description": "A low-resolution CCTV image shows a person from behind sitting at an office desk. The individual wears a brown t-shirt and a white head covering. The desk holds two monitors, a telephone terminal, a printer, and papers. A timestamp \"2012/05/27 04:15:20\" appears in the top left. The background contains office chairs and a partition.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2012/05/27",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 39,
+    "context": "burglary",
+    "description": "A wide-angle view shows an indoor kitchen and living area. A granite-topped island with two glowing pendant lights features a red bowl and wooden board. To the left are white cabinets and a black oven. In the background, there are windows with closed blinds and a living room with a sofa. A \"canary\" logo is in the top right.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 40,
+    "context": "burglary",
+    "description": "A security camera captures a person wearing a grey hooded sweatshirt and dark pants standing at the front door of a red brick house. They are reaching toward the door frame. The surrounding area includes a brick walkway, green bushes, and fallen leaves. A \"Tulsa Police\" logo appears in the bottom left corner.",
+    "named_entities": [
+      {
+        "text": "Tulsa Police",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 41,
+    "context": "burglary",
+    "description": "A night-vision security camera image, timestamped Friday, September 19, 2014, at 23:38:28, displays an outdoor area labeled \"Camera5.\" The monochrome scene features light-colored walls, a dark rectangular opening, and leafy bushes. A round object, possibly a light or speaker, is visible on the far left, while the view is framed by horizontal structural ledges.",
+    "named_entities": [
+      {
+        "text": "Friday, September 19, 2014",
+        "label": "DATE"
+      },
+      {
+        "text": "23:38:28",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 43,
+    "context": "burglary",
+    "description": "High-angle security footage shows a convenience store interior with shattered glass scattered on the floor near the entrance doors. An ATM stands on the left. To the right are counters stocked with merchandise and a glass-top freezer in the foreground. A time stamp in the top left reads November 25, 2012. No individuals are present.",
+    "named_entities": [
+      {
+        "text": "ATM",
+        "label": "ORG"
+      },
+      {
+        "text": "November 25, 2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 44,
+    "context": "burglary",
+    "description": "A low-resolution security camera image shows a man in a dark suit and gloves standing in a store's glass entryway. He is looking toward the right. The interior features illuminated display cases on both sides. Through the door, a dark car is visible on the street. A timestamp at the top reads \"12/04/05 11:46:16\".",
+    "named_entities": [
+      {
+        "text": "12/04/05",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 45,
+    "context": "burglary",
+    "description": "Safety Note: This image depicts a potential break-in.\n\nBlack-and-white security footage dated 09/06/2014 shows two people inside a room. One person in a light hoodie leans over a counter while another in a striped shirt and head covering stands by a desk. Shattered glass is visible near the background door. The room contains various office supplies and furniture.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 46,
+    "context": "burglary",
+    "description": "A black and white security image shows a living room. One person, wearing dark clothing and a face mask, is near a fireplace and bookshelf. Another person in a light-colored shirt is by a window. The room contains a sofa and various furniture. Note: This image depicts a potential home intrusion.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 47,
+    "context": "burglary",
+    "description": "A security camera view shows a room with glass cases displaying many rifles and shotguns. A large wooden table sits in the center on a rug. In the bottom right, a person in a grey hoodie bends over a black bag. Safety note: This image contains many firearms and depicts a potential security incident.",
+    "named_entities": []
+  },
+  {
+    "video_index": 48,
+    "context": "burglary",
+    "description": "Security camera footage shows a shop interior labeled \"Dispensary\" with rows of stocked shelves. A person wearing a white motorcycle helmet and a dark shirt stands by a doorway, holding a large dark bag. The foreground includes a counter with a laptop. A date and time stamp (2015-05-18) and a \"SAFERITY\" logo appear on screen.",
+    "named_entities": [
+      {
+        "text": "2015-05-18",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 49,
+    "context": "burglary",
+    "description": "A security camera still labeled \"CAM 4\" shows a residential driveway on October 4, 2016. A person in grey clothing stands outside a white house on the right, reaching toward a window. An air conditioning unit is in the foreground, and other houses are visible across the street. The image quality is low, making details unclear.",
+    "named_entities": [
+      {
+        "text": "CAM 4",
+        "label": "LAW"
+      },
+      {
+        "text": "October 4, 2016",
+        "label": "DATE"
+      },
+      {
+        "text": "grey clothing",
+        "label": "ORG"
+      }
+    ]
+  }
+]

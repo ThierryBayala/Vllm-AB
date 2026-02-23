@@ -1,0 +1,606 @@
+[
+  {
+    "video_index": 1,
+    "context": "explosion",
+    "description": "This low-resolution security camera footage, dated December 11, 2005, shows numerous fragments flying through a thick, dusty atmosphere. A rectangular structure is visible in the mid-ground. The scene depicts a destructive event, such as an explosion or high-impact blast. Safety note: This image captures a moment of physical destruction.",
+    "named_entities": [
+      {
+        "text": "December 11, 2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 2,
+    "context": "explosion",
+    "description": "A nighttime CCTV image shows a brightly lit gas station. Multiple red and silver fuel pumps are arranged on a grey concrete lot. A dark-colored car is parked at a pump in the middle. White pillars support the roof overhead. A timestamp in the top left corner indicates the date is August 26, 2006.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "August 26, 2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 3,
+    "context": "explosion",
+    "description": "A silver hatchback drives in the center lane of a multi-lane highway. To its right is a silver SUV and a large billboard. Other vehicles are visible ahead, some appearing stopped near a patch of smoke on the left. The scene is captured from a following vehicle's perspective under a clear sky during daylight.",
+    "named_entities": []
+  },
+  {
+    "video_index": 4,
+    "context": "explosion",
+    "description": "A security camera still shows a firefighter in dark protective gear and a helmet crouching on a brick patio. They hold a white fire hose aimed toward a closed white door. The background features a tan wall and a car parked in a hazy area. Text overlays include \"Palm Beach County Fire Rescue\" and a 2017 timestamp.",
+    "named_entities": [
+      {
+        "text": "Palm Beach",
+        "label": "GPE"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 5,
+    "context": "explosion",
+    "description": "Safety note: This image depicts a vehicle fire. A small motorized vehicle is engulfed in large orange flames and dark smoke on a road. A large semi-truck is in the background. To the left, there are people near a small roadside structure and a car. The image includes a LiveLeak watermark and a timestamp from 2014.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "explosion",
+    "description": "A grainy security camera shot captures a city intersection. People walk across a crosswalk and a wide sidewalk area. A car moves along the street on the right. In the background, a McDonald's logo is visible near several buildings. The image includes logos for \"euronews\" and \"OBOZREVATEL\" at the top corners.",
+    "named_entities": [
+      {
+        "text": "McDonald",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "explosion",
+    "description": "Grainy surveillance footage shows three individuals running away from the camera into a hazy, dusty outdoor area. In the foreground on the left, there is a large pile of clear plastic bottles next to a small stall. Trees are visible in the background. The frame includes \"Caught On Camera\" watermarks and a time stamp of 9:34.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Caught On Camera",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "9:34",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 8,
+    "context": "explosion",
+    "description": "A grainy surveillance image shows a paved road with utility poles. A white car is visible on the left. In the background, a large explosion with thick smoke and flying debris occurs near several parked vehicles. Trees and power lines line the horizon. Note: This image depicts a potentially violent explosion.",
+    "named_entities": []
+  },
+  {
+    "video_index": 9,
+    "context": "explosion",
+    "description": "A blurry security camera image shows a dark rectangular panel on a frame. A bright orange fire burns on the tiled ground directly beneath. Equipment is visible to the left. Overlays include \"RIANOVOSTI\" and \"CAM 005\". Safety note: This image depicts a fire or explosion. Confidence is high for the overall event, lower for specific object identification.",
+    "named_entities": [
+      {
+        "text": "Overlays",
+        "label": "DATE"
+      },
+      {
+        "text": "RIANOVOSTI",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "explosion",
+    "description": "This outdoor scene features a wooden picnic table on a platform in the foreground. A dense forest covers the background on a hillside. To the right, part of a large green structure or tent is visible. The sky is very bright, causing some overexposure. Fallen logs and a blue railing appear on the lower left side.",
+    "named_entities": []
+  },
+  {
+    "video_index": 11,
+    "context": "explosion",
+    "description": "A wide, multi-lane urban road features heavy traffic under bright daylight. Numerous cycle rickshaws, motorcycles, and white buses move in both directions. Tall billboards and posters line the road, and trees are visible on the left. Buildings and sidewalks flank the street. A \"bdnews24.com\" watermark appears in the center, with a timestamp on the top right.",
+    "named_entities": []
+  },
+  {
+    "video_index": 12,
+    "context": "explosion",
+    "description": "A low-resolution street view shows a dark SUV driving away on an asphalt road. Two zebra crosswalks are visible in the foreground and center. Thin metal barriers stand on the pavement. On the right, two people walk along a sidewalk next to a building. The scene is brightly lit, casting distinct shadows. A watermark appears in the bottom right corner.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "explosion",
+    "description": "Three people in dark clothing are in a cluttered warehouse or workshop. One person stands behind a counter facing away, while another leans over a desk in the foreground. The background features shelving units, boxes, and a workbench. The image appears to be grainy security footage. Confidence score: 75% due to low resolution.",
+    "named_entities": [
+      {
+        "text": "Three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "75%",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "explosion",
+    "description": "A low-resolution overhead view shows a damaged white vehicle tilted on a concrete floor. A person in light-colored clothing stands nearby. Yellow and red equipment and a dark hose on the ground are also visible. The scene appears to be an industrial area or tunnel. Confidence score is low due to significant image blurriness.",
+    "named_entities": []
+  },
+  {
+    "video_index": 15,
+    "context": "explosion",
+    "description": "A fire burns inside a highway toll booth, producing thick grey smoke that rises into a hazy sky. Several cars are stopped or moving nearby on the paved road. A large electrical tower stands on the right. Safety note: This image shows an active fire at a toll plaza.",
+    "named_entities": [
+      {
+        "text": "thick grey",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 16,
+    "context": "explosion",
+    "description": "A blurry, low-resolution grayscale image depicts a dark silhouette of a person in the distance. A white line stretches along the ground toward them. The surrounding environment is hazy and indistinct, possibly a foggy outdoor area or a poorly lit hallway. Due to the extreme blurriness, specific details are unclear. Confidence: Low.",
+    "named_entities": []
+  },
+  {
+    "video_index": 17,
+    "context": "explosion",
+    "description": "This grayscale security image shows two men on a nighttime street near a parked dark car. A bright, circular flash of light, possibly a small explosion, occurs on the ground between the men. One man stands close to the flash. Safety Note: This image depicts a hazardous event involving a small explosion. Confidence Score: 5/5.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5/5",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 18,
+    "context": "explosion",
+    "description": "Thick grey smoke rises from the central entrance of a large building with a clock tower. In the foreground, a parking lot is filled with cars. Bare trees and a few people are in the square between the cars and the building. Safety Note: This image depicts the aftermath of an explosion or fire.",
+    "named_entities": [
+      {
+        "text": "Thick grey",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "video_index": 19,
+    "context": "explosion",
+    "description": "A low-resolution security camera image captures a gas station on May 23, 2014. Several people on motorcycles and scooters are gathered around a central white support pillar and fuel pumps. A blue and yellow sign stands to the left. A timestamp is visible at the top, and two people walk along a road in the distance.",
+    "named_entities": [
+      {
+        "text": "May 23, 2014",
+        "label": "DATE"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 20,
+    "context": "explosion",
+    "description": "A high-angle surveillance view shows a cosmetics store interior. A red stroller sits in a wide aisle between a large advertisement and \"NYX\" makeup displays. White text at the bottom states that an explosion was caused by batteries contacting metal, resulting in a short circuit. The store features shiny flooring and various retail shelving.",
+    "named_entities": [
+      {
+        "text": "NYX",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 21,
+    "context": "explosion",
+    "description": "A smoky scene shows the aftermath of an event at a gas station. Scattered papers and debris cover the ground. Large corrugated metal sheets lie in the foreground near a person lying on the pavement. A gas pump stands on the left. Safety Note: This image depicts a traumatic disaster scene with a possible casualty.",
+    "named_entities": []
+  },
+  {
+    "video_index": 22,
+    "context": "explosion",
+    "description": "This industrial CCTV image shows two workers in orange hard hats and light-colored work clothes. They are standing in a narrow aisle between a large gray metal equipment enclosure and a wall-mounted control panel. A black toolkit sits on the floor nearby. The setting is an indoor technical facility with artificial lighting.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 23,
+    "context": "explosion",
+    "description": "This low-resolution, overexposed image shows a dark room filled with rectangular crates in the foreground. A massive, bright white flash or glare occupies the center and left. A blurry figure stands in the background on the right. The scene has a grainy texture and a distinct purple tint, making identification difficult. Confidence score: Low.",
+    "named_entities": []
+  },
+  {
+    "video_index": 24,
+    "context": "explosion",
+    "description": "This security footage shows a person throwing a brick at a parked car at night. The brick bounces back, hitting the person, who then falls. A second person enters from the right to assist. Note: Contains a minor physical impact. The scene includes a stone driveway, low walls, and a timestamp at the bottom. Confidence: High.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 25,
+    "context": "explosion",
+    "description": "A black and white photo shows a street scene viewed through an open window. Centered is a dark building labeled \"THE WINDMILL BAR\" with lights visible in the windows. To the left, part of a \"B&B\" sign is visible. The scene features gabled roofs under a cloudy sky, suggesting evening or night.",
+    "named_entities": [
+      {
+        "text": "B&B",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "evening",
+        "label": "TIME"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 26,
+    "context": "explosion",
+    "description": "This low-resolution image features a dark car engulfed in thick, white smoke. The vehicle is positioned on the left side of the frame, with a blurry wall or structure visible to the right. A prominent white watermark for \"MACHOVIDEO.COM\" appears at the bottom. The scene is obscured by heavy smoke and significant motion blur.",
+    "named_entities": []
+  },
+  {
+    "video_index": 27,
+    "context": "explosion",
+    "description": "Security camera footage captures a man in a workshop with smoke rising from his hands or pocket. He stands near a workbench, a fallen trash can, and a laptop on the wooden floor. A wooden ladder and boxes are also visible. Safety note: the image shows smoke from a potential electrical fire or device malfunction.",
+    "named_entities": []
+  },
+  {
+    "video_index": 28,
+    "context": "explosion",
+    "description": "A high-angle view shows a cobblestone street with several parked cars. A purple car is in the foreground, while others are parked diagonally along the right. A red van and yellow bin are on the left. A few pedestrians walk on the sidewalks near buildings. Street signs and a lamp post are also visible. The image is low-resolution.",
+    "named_entities": []
+  },
+  {
+    "video_index": 29,
+    "context": "explosion",
+    "description": "A low-resolution security camera image shows a person with reddish hair standing beside a dark SUV at a gas station. The person wears a white long-sleeved shirt and dark pants. A gas pump with a large support pillar is visible. Text at the bottom includes a 2004 timestamp, \"Pump 1 & 2\", and a website URL.",
+    "named_entities": [
+      {
+        "text": "2004",
+        "label": "DATE"
+      },
+      {
+        "text": "Pump 1 & 2",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 30,
+    "context": "explosion",
+    "description": "A low-resolution security camera image captures an active fire and thick black smoke at a gas station pump. Two people stand on the pavement. Several parked vehicles, including a white pickup truck and an SUV, are in the foreground. Safety Note: This image depicts a dangerous fire emergency.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 31,
+    "context": "explosion",
+    "description": "A blurry image shows a city street with several cars. A reddish car and a white car appear to have collided, with a cloud of smoke above them. Other vehicles are parked or driving nearby. Buildings line the background under dim light. Safety note: The image depicts a vehicle accident. Confidence score is low due to image blurriness.",
+    "named_entities": []
+  },
+  {
+    "video_index": 32,
+    "context": "explosion",
+    "description": "This industrial site features a network of white pipelines and storage tanks. Several workers in yellow high-visibility vests are active near the equipment. In the distance, thick plumes of black smoke rise into the sky behind tall industrial stacks. The facility is located in a flat, sandy area under a hazy sky.",
+    "named_entities": []
+  },
+  {
+    "video_index": 33,
+    "context": "explosion",
+    "description": "A grainy news image shows a large, dark plume of smoke and debris rising vertically from an industrial facility. At the base of the plume are white buildings and several tall, thin white chimneys. The background is a hazy gray sky. Text overlays include \"oztvwatcher\" and a \"9 NEWS\" logo. Note: This image depicts a major industrial explosion.",
+    "named_entities": [
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 34,
+    "context": "explosion",
+    "description": "Low-quality black-and-white security footage shows two men in a room with tables. A sudden flash and explosion occur near one man, filling the room with debris and smoke. Safety Note: The image depicts a violent explosion. The men react as the scene is obscured by dust. A watermark \"NOTHINGTOXIC.COM\" is visible.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "NOTHINGTOXIC.COM",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 35,
+    "context": "explosion",
+    "description": "This low-quality CCTV image shows an outdoor paved area with manhole covers. Several pedestrians walk through the space. On the right, three people, including one in a bright pink jacket, are crouched next to a person lying on the ground, suggesting a possible medical emergency. The image includes a timestamp, Chinese text, and logos for LiveLeak and Youku.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Chinese",
+        "label": "NORP"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "GPE"
+      },
+      {
+        "text": "Youku",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "video_index": 36,
+    "context": "explosion",
+    "description": "This dashcam image shows a narrow road in a residential area. A white pickup truck is positioned on the left. On the right, a dark house is visible next to a snowy lawn and a trash bin. Bare trees and additional vehicles appear in the distance under a clear blue sky. The scene depicts a sunny, winter day.",
+    "named_entities": [
+      {
+        "text": "winter day",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 37,
+    "context": "explosion",
+    "description": "This grainy security camera image features horizontal scan lines and a \"CAMERA09\" label in the top-left. A timestamp at the bottom reads \"08/17/2015 20:25:16.\" The scene is dark and blurry, showing indistinct outdoor shapes and a bright light on the right. Identification of specific objects is uncertain due to poor resolution.",
+    "named_entities": [
+      {
+        "text": "scan",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 38,
+    "context": "explosion",
+    "description": "A high-angle security shot shows a person in a grey shirt and cap working behind a fast-food counter. They are leaning over a cash register near trays of plastic utensils. In the background, another worker stands by a griddle with food. An \"RT\" logo is visible in the bottom left corner.",
+    "named_entities": []
+  },
+  {
+    "video_index": 39,
+    "context": "explosion",
+    "description": "A man in a black polo shirt with a \"Digital Impulse\" logo talks on a mobile phone. He stands in front of a storefront where a window has been shattered, with glass shards visible on the ledge. Shelves inside the window hold various containers. An \"nrk\" logo is in the top right corner.",
+    "named_entities": [
+      {
+        "text": "Digital Impulse",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 40,
+    "context": "explosion",
+    "description": "Low-resolution security footage shows a white pickup truck with large orange flames rising from its bed. The vehicle is parked against a wall in a lot with three other cars. A person stands by the open driver-side door. A green timestamp and \"AP\" logo are overlaid. Safety note: This image depicts a vehicle fire.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "AP",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 41,
+    "context": "explosion",
+    "description": "Safety Note: This image depicts the aftermath of a violent event. CCTV footage from a street intersection shows a dark truck surrounded by debris and smoke. Multiple motorcycles are on the ground, and several individuals are lying or standing in the road. Bright streetlights illuminate the scene at night, with buildings visible in the background.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 42,
+    "context": "explosion",
+    "description": "A security camera captures a narrow street. A shirtless man wearing purple shorts walks down the path. To the left is a yellow-and-green tricycle. On the right, clothes hang near a person standing by a wall. A motorcycle covered in a grey tarp sits in the foreground. The image includes a timestamp and camera label.",
+    "named_entities": []
+  },
+  {
+    "video_index": 43,
+    "context": "explosion",
+    "description": "Low-angle surveillance footage shows a city street on March 26, 2015. Several people walk along a sidewalk next to a building with a striped awning. One individual runs across a crosswalk in the intersection. Parked and moving cars are visible in the background under a hazy sky. A timestamp at the bottom reads 03:18:47 PM.",
+    "named_entities": [
+      {
+        "text": "March 26, 2015",
+        "label": "DATE"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "03:18:47 PM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 44,
+    "context": "explosion",
+    "description": "An industrial facility with many white and yellow pipes is shown. A large orange fireball and thick smoke from an explosion rise in the background. Several small figures are visible near the pipelines on a sandy ground. Large storage tanks sit behind the pipe network. A \"Live Leak\" watermark is in the upper-left corner.",
+    "named_entities": [
+      {
+        "text": "A \"Live Leak",
+        "label": "LAW"
+      }
+    ]
+  },
+  {
+    "video_index": 45,
+    "context": "explosion",
+    "description": "This grainy, black-and-white night surveillance photo shows a street with trees. Bright light flares in the center near parked cars. A watermark labeled \"ODDSTRANGE\" is in the top right corner. The image is highly blurry and low-resolution, making specific details difficult to identify. Confidence score is low due to poor image quality.",
+    "named_entities": [
+      {
+        "text": "ODDSTRANGE",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 46,
+    "context": "explosion",
+    "description": "A CCTV image shows two silver cars at a gas station fuel island at night. The car on the left has its trunk open. The ground appears wet. A \"LiveLeak\" logo is in the upper left, and a timestamp from August 2017 is in the upper right. The pump base has a black and white checkered pattern.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "August 2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 47,
+    "context": "explosion",
+    "description": "A grainy security camera image shows a busy indoor security checkpoint, likely in a station. Several people in winter clothing are walking near walk-through metal detectors and X-ray machines. A \"LIFE NEWS\" logo appears in the upper left corner. The floor has a geometric tiled pattern, and various monitors are set up near the security equipment.",
+    "named_entities": [
+      {
+        "text": "winter",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 48,
+    "context": "explosion",
+    "description": "This grainy image shows a street scene with several vehicles and people. A white van with a roof rack and the number \"2011\" is in the foreground. Multiple people are running away from a cloud of dark smoke in the background. Logos for LiveLeak and SAMAA TV are present. Note: This image depicts a potentially violent event.",
+    "named_entities": [
+      {
+        "text": "2011",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "SAMAA TV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 49,
+    "context": "explosion",
+    "description": "A gray truck is engulfed in large orange flames next to a metal structure in a snowy field. The driver-side door is open. A barbed-wire fence is in the foreground. CCTV text \"KAM 2\" and a timestamp appear in the corners. Safety note: This image depicts a hazardous vehicle fire.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "KAM 2",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  }
+]

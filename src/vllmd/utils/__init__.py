@@ -1,4 +1,18 @@
-# Utilities: entity extraction, display helpers, evaluation metrics, plotting
+# Utilities: entity extraction, display helpers, evaluation metrics, plotting, video frames, frame describe
+from vllmd.utils.video_frames import (
+    extract_frames_from_video,
+    split_abnormal_videos_into_frames,
+)
+from vllmd.utils.video_describe import describe_videos_in_abnormal
+from vllmd.utils.json_parser import (
+    load_video_descriptions_json,
+    load_all_video_descriptions,
+)
+from vllmd.utils.frame_describe import (
+    VISUAL_DESCRIPTION_PROMPT,
+    describe_frame_images_in_folder,
+    extract_named_entities_spacy,
+)
 from vllmd.utils.entity_extractor import (
     Entity,
     CustomEntityRule,
@@ -23,6 +37,14 @@ from vllmd.utils.plotting import (
 )
 
 __all__ = [
+    "extract_frames_from_video",
+    "split_abnormal_videos_into_frames",
+    "describe_videos_in_abnormal",
+    "load_video_descriptions_json",
+    "load_all_video_descriptions",
+    "VISUAL_DESCRIPTION_PROMPT",
+    "describe_frame_images_in_folder",
+    "extract_named_entities_spacy",
     "Entity",
     "CustomEntityRule",
     "CustomEntityExtractor",

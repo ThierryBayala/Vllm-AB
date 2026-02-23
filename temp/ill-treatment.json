@@ -1,0 +1,409 @@
+[
+  {
+    "video_index": 1,
+    "context": "ill-treatment",
+    "description": "A grainy image shows a person with short dark hair wearing a dark long-sleeved shirt in a long hallway. The person is leaning forward in the foreground. The hallway features white walls, several closed doors, and a carpeted floor. Bright light enters from the far end of the corridor. The view is from a slightly elevated angle.",
+    "named_entities": []
+  },
+  {
+    "video_index": 2,
+    "context": "ill-treatment",
+    "description": "This grainy, low-resolution image shows a brightly lit indoor hallway. Three people are visible: two walk away from the camera down the center, while one stands near a counter on the left. A trash can is in the bottom right corner, and a brown door is on the right wall. Confidence score: High.",
+    "named_entities": [
+      {
+        "text": "Three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 3,
+    "context": "ill-treatment",
+    "description": "A high-angle view shows a white brick room being flooded with white foam from the left. A large black number \"5\" and a small intercom are on the wall. A pair of sandals sits on the grey floor, while a white bench with a grey bag is positioned against the right wall. The image features a \"LiveLeak\" watermark.",
+    "named_entities": [
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 4,
+    "context": "ill-treatment",
+    "description": "This low-resolution security footage shows about five people standing on a paved walkway at night. A metal railing runs along the left side. The image includes a 2009 timestamp and \"ntnews.com.au\" watermark. Due to poor image quality, specific actions and faces are difficult to identify. Confidence score: 60%.",
+    "named_entities": [
+      {
+        "text": "about five",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "2009",
+        "label": "DATE"
+      },
+      {
+        "text": "60%",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "video_index": 5,
+    "context": "ill-treatment",
+    "description": "A grainy security camera still, labeled \"Camera 03,\" shows a person in a pink shirt tending to infants in a nursery. Several clear plastic bassinets are visible, each containing a baby wrapped in blankets. The room is dimly lit, with a bright light source on the right wall.",
+    "named_entities": [
+      {
+        "text": "Camera 03",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "ill-treatment",
+    "description": "A high-angle photo from 2016 shows about fifteen children standing in a bright, indoor room with light-colored tile floors. Most children wear colorful winter coats and are positioned with their backs to the camera. A red wooden bench is visible against a white wall on the right side.",
+    "named_entities": [
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "about fifteen",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "winter",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 7,
+    "context": "ill-treatment",
+    "description": "A woman in a white top stands on a sidewalk, leaning over an open green wheelie bin. She is positioned next to a brick wall and a parked teal car. In the background, cars drive on a street with a brick building. This high-angle security camera image displays a date and timestamp in the bottom left corner.",
+    "named_entities": []
+  },
+  {
+    "video_index": 8,
+    "context": "ill-treatment",
+    "description": "A low-resolution CCTV frame captures a tiled courtyard. A light-brown dog runs toward a person in dark clothing who is moving away. Another person stands on the right holding a long object. A silver van is parked behind a metal gate. A blue bucket sits near a side wall. Timestamps and logos appear at the top and bottom.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 9,
+    "context": "ill-treatment",
+    "description": "A low-resolution CCTV frame shows a shop interior with a \"LiveLeak\" watermark. On a dark, patterned counter sits a white cash register. A child in an orange shirt is on the tiled floor next to a person sitting in a chair. A timestamp of 19:51:29 and \"Camera 01\" are displayed on the screen.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "19:51:29",
+        "label": "TIME"
+      },
+      {
+        "text": "Camera 01",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "ill-treatment",
+    "description": "A grainy, low-light indoor scene shows two silhouetted figures near a crib. One person leans over the bed while another stands nearby. A framed picture hangs on the white wall. A LiveLeak watermark is in the top-left corner, and a white oval blur covers part of the lower-right foreground. The image quality is low and details are obscured.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 11,
+    "context": "ill-treatment",
+    "description": "A person with a blurred face, wearing a dark blue shirt, stands near a wooden door. To the right is a bed with gray and white striped bedding. A white wall features a corkboard and a small blue picture. A \"Live Leak\" logo is in the top-left corner. The image is low-resolution and depicts an indoor room.",
+    "named_entities": [
+      {
+        "text": "A \"Live Leak\"",
+        "label": "LAW"
+      }
+    ]
+  },
+  {
+    "video_index": 12,
+    "context": "ill-treatment",
+    "description": "A high-angle security camera image captures a small child on the floor of a room. An adult with a blurred face stands nearby. The room features a crib with blue netting and a light-colored wardrobe. In the top left corner, there is a \"LiveLeak\" watermark and an Italian police emblem.",
+    "named_entities": [
+      {
+        "text": "Italian",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "ill-treatment",
+    "description": "This low-resolution image shows a crowded hallway with lockers on the left. In the foreground, people in casual clothes look toward another group further down the hall. The area is brightly lit by overhead fixtures. Due to motion blur, the exact activities in the background are unclear. A \"Live Leak\" watermark is visible in the top-left corner.",
+    "named_entities": [
+      {
+        "text": "A \"Live Leak",
+        "label": "LAW"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "ill-treatment",
+    "description": "An adult in a striped shirt and purple beanie leans over a child lying face down on a colorful alphabet foam mat. They are in a playroom filled with toys, a large tan stuffed animal, and a small wooden desk with papers. A \"LiveLeak\" watermark is visible in the upper-left corner of the image.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 15,
+    "context": "ill-treatment",
+    "description": "A low-resolution image shows a cluttered indoor room. On the left, a patterned sofa sits near a shelf holding various items. To the right, there is a dining table with chairs; a large blue bag hangs from one. A window with a grid is in the background. A blurry silhouette of a person appears in the foreground.",
+    "named_entities": []
+  },
+  {
+    "video_index": 16,
+    "context": "ill-treatment",
+    "description": "A low-resolution security camera image shows a person standing at a metal gate, facing away from the camera. The individual wears a light green shirt and dark pants. To the left is a green mailbox, and a palm tree is on the right. The background features a gravel area. The timestamp indicates September 28, 2015.",
+    "named_entities": [
+      {
+        "text": "September 28, 2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 17,
+    "context": "ill-treatment",
+    "description": "A wide-angle security camera captures a residential driveway with a white SUV and a black pickup truck. The white SUV has a large amount of a white liquid substance splattered across its roof and side. A person stands in the lower right foreground. Other vehicles and houses are visible in the suburban background.",
+    "named_entities": []
+  },
+  {
+    "video_index": 18,
+    "context": "ill-treatment",
+    "description": "A low-resolution CCTV image shows a residential street during the day. A white van is parked on the left. In the background, a person stands on a sidewalk next to a small black animal. A timestamp reads \"1:32:17 PM\" and an RSPCA logo is in the top right corner. Confidence in specific details is low due to blurriness.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "the day",
+        "label": "DATE"
+      },
+      {
+        "text": "1:32:17 PM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 19,
+    "context": "ill-treatment",
+    "description": "A low-resolution image shows two people near a tall metal fence. One person, wearing a blue shirt and dark pants, is climbing the fence. A second person, in a grey jacket and red pants, stands on the ground nearby, watching. A red car is partially visible on the left, and a green bin sits in the background.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 20,
+    "context": "ill-treatment",
+    "description": "The image consists of white text centered on a solid black background. The text is written in a simple sans-serif font across four lines and reads: \"Open Case Home Healthcare Provider neglects elderly woman after she collapses.\" No other objects, figures, or background details are present.",
+    "named_entities": [
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Open Case Home Healthcare Provider",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 21,
+    "context": "ill-treatment",
+    "description": "In this surveillance camera image, a person in a pink shirt leans over someone lying in a bed with metal railings. The room contains a white wardrobe, a small unit with bottles, and wall art. A bright light fixture is positioned above the bed. A timestamp and logo appear on the edges of the frame.",
+    "named_entities": []
+  },
+  {
+    "video_index": 22,
+    "context": "ill-treatment",
+    "description": "In a brightly lit room, likely a nursery, a person wearing a light-colored apron over dark clothing walks while carrying a large white object and a blue handled item. The setting includes a curved table with white chairs, storage shelves, and a blue floor cushion. Due to low image resolution, specific details are blurry. Confidence Score: 0.8.",
+    "named_entities": [
+      {
+        "text": "0.8",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 23,
+    "context": "ill-treatment",
+    "description": "In a room with pink walls and a floral border, a person wearing a blue vest over a white shirt leans over an individual lying in a bed. The bed has metal rails and patterned blankets. A decorative wreath and an electrical outlet are on the wall. A yellow timestamp is visible in the bottom right corner.",
+    "named_entities": []
+  },
+  {
+    "video_index": 24,
+    "context": "ill-treatment",
+    "description": "In a living room, a person in a blue shirt stands next to a red walker. Another person in light-colored clothing sits and leans forward. The room contains a sofa, coffee table, armchairs, and several lamps. A ceiling fan is overhead, and large windows are to the left. A \"nest\" logo appears in the bottom right corner.",
+    "named_entities": []
+  },
+  {
+    "video_index": 25,
+    "context": "ill-treatment",
+    "description": "A high-angle surveillance shot shows a classroom with several toddlers and an adult. Most children sit at small green tables, while others move around the room. An adult in a pink shirt sits with a child at a table containing bowls. The room features wooden floors, toy shelves, and colorful wall decorations. A timestamp is visible at the top.",
+    "named_entities": []
+  },
+  {
+    "video_index": 26,
+    "context": "ill-treatment",
+    "description": "An indoor scene shows a person in a red patterned garment sitting on the floor, tending to a baby lying on blankets. Beside them is a bed with a pink patterned cover and a large tan pillow. In the foreground stands an empty white metal crib. The room has dark flooring.",
+    "named_entities": []
+  },
+  {
+    "video_index": 27,
+    "context": "ill-treatment",
+    "description": "In this blurry, low-quality image, one person is seated behind a dark desk while another stands behind them, placing their hands near the seated person's neck. The exact nature of the interaction is unclear due to poor resolution. Note: The image depicts potential physical aggression. Confidence Score: Low.",
+    "named_entities": [
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 28,
+    "context": "ill-treatment",
+    "description": "**Objective Visual Elements:**\n*   **People:** One elderly person with white hair seated on a sofa; one person in a blue tank top and light pants walking away.\n*   **Furniture:** A light-colored sofa with pillows; a small folding chair with a white cushion.\n*   **Background:** Two framed wall pictures; a dark hallway; wooden flooring.\n*   **Text:** \"IP Camera\" (bottom); \"2019-12-25 23:26:23\" (top).\n\n**Description:**\nA timestamped surveillance image shows an elderly person sitting on a light-colored sofa. A second person, wearing a blue tank top and light pants, walks away toward a dark hallway. The room includes wooden floors, a small folding chair, and wall art. The low-resolution image is dated December 25, 2019. Confidence: High.",
+    "named_entities": [
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "IP Camera",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "2019-12-25",
+        "label": "DATE"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "December 25, 2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 29,
+    "context": "ill-treatment",
+    "description": "This black and white CCTV video shows a person walking across a backyard patio. Laundry hangs on a line in the background. Suddenly, the ground collapses, and the person falls into a large hole. A patio heater and residential houses are visible. Note: The video depicts an accidental fall into a sinkhole.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 30,
+    "context": "ill-treatment",
+    "description": "This grayscale CCTV image displays a daycare room with children lying on floor mats. An adult stands on the left. A round table is in the foreground, and shelves line the background. A timestamp (11/15/2013) and logos are at the top. A cartoon flower graphic is centered in the frame. Confidence score: 5/5.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "5/5",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 31,
+    "context": "ill-treatment",
+    "description": "A person in a white uniform stands next to a hospital bed in a sparsely furnished room. The individual is leaning over the bed, which has metal railings. The background includes a window and a tall cabinet. A logo and text for \"Guardia di Finanza Imperia\" are visible in the top left corner.",
+    "named_entities": [
+      {
+        "text": "Guardia di Finanza Imperia",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 32,
+    "context": "ill-treatment",
+    "description": "This low-quality, blurry image shows an indoor setting with two figures. One person on the left wears dark clothing and holds an object up. Another person nearby has their arms raised toward a bright, vertical surface or curtain. Due to heavy motion blur and low resolution, specific details are unclear. Confidence score is medium-low.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "video_index": 1,
+    "context": "arrest",
+    "description": "A security camera captures an office interior. On the left, a person in a white t-shirt and light pants appears to be lunging at or grabbing another person seated at a desk. Other individuals stand near a glass doorway in the background. The scene includes office furniture, partitions, and equipment. Note: The image depicts a potential physical altercation.",
+    "named_entities": []
+  },
+  {
+    "video_index": 2,
+    "context": "arrest",
+    "description": "Safety Note: This image depicts a potential physical altercation. \nDescription: A person in a white t-shirt stands over another individual on the floor in a hallway. A metal luggage cart and a rug with \"GRA\" text are visible. Due to low resolution, the exact nature of the interaction is unclear. \nConfidence Score: 4/5.",
+    "named_entities": [
+      {
+        "text": "4/5",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 3,
+    "context": "arrest",
+    "description": "A high-angle security photo shows two police officers in dark uniforms detaining a person in a white t-shirt on a sidewalk. One officer holds the person's arm. A grey SUV and a white patrol car are visible in the background near a glass-windowed building. Safety note: This image depicts a law enforcement confrontation.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 4,
+    "context": "arrest",
+    "description": "A security camera captures a narrow street with several people wearing white helmets and dark uniforms. They are gathered around a white sedan and a motorcycle in the road. Other parked cars, including a red sedan, line the sides. A digital timestamp and logos are visible in the upper corners of the image.",
+    "named_entities": []
+  },
+  {
+    "video_index": 5,
+    "context": "arrest",
+    "description": "A low-resolution security image depicts a law enforcement officer restraining a person face down on a store floor. A second officer stands nearby while a man in a blue shirt watches from the foreground. The background features store shelves and merchandise. Safety note: This image shows a person being physically restrained by law enforcement.",
+    "named_entities": [
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 6,
+    "context": "arrest",
+    "description": "Several uniformed officers are clustered around an individual on a grassy area next to a red SUV. A white police car is parked nearby on the pavement. In the background, a building with garage doors and a parking lot with various cars are visible. Safety note: The image shows a physical confrontation between police and an individual.",
+    "named_entities": []
+  },
+  {
+    "video_index": 7,
+    "context": "arrest",
+    "description": "A high-angle security camera view shows an indoor room. On the left is a black metal bench against a beige wall. On the right, several white desks hold office equipment. A person wearing a white tank top and dark shorts stands near a dark door at the back. White storage cabinets line the wall behind the person.",
+    "named_entities": []
+  },
+  {
+    "video_index": 8,
+    "context": "arrest",
+    "description": "A grainy nighttime surveillance image shows several cars in a parking lot. A silver SUV in the center has bright headlights on. Below it are a white sedan and a grey car. In the background, a person stands near the open door of another white car. Other vehicles are parked under distant streetlights.",
+    "named_entities": []
+  },
+  {
+    "video_index": 9,
+    "context": "arrest",
+    "description": "A high-angle security camera image shows a white SUV stopped on a city street with its driver-side door open. A person wearing white clothing walks along the sidewalk next to the vehicle. The timestamp indicates August 7, 2016, at 7:40 AM. A sign with a blue \"C\" logo stands at the bottom right.",
+    "named_entities": [
+      {
+        "text": "August 7, 2016",
+        "label": "DATE"
+      },
+      {
+        "text": "7:40 AM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 10,
+    "context": "arrest",
+    "description": "A security camera captures a man in a black uniform walking across a pile of long steel rebars at a construction site. Nearby are concrete structures, scaffolding, and red equipment. A street with parked cars is visible to the right. The image includes a timestamp at the top and a company logo at the bottom right.",
+    "named_entities": []
+  },
+  {
+    "video_index": 11,
+    "context": "arrest",
+    "description": "Grainy CCTV footage shows a person lying on the ground. Two individuals in orange high-visibility jackets stand over them near an entrance. Other figures are present in the foreground and background. Safety Note: The image depicts a potential physical altercation. Confidence score: Moderate, due to low image quality.",
+    "named_entities": [
+      {
+        "text": "Grainy CCTV",
+        "label": "PERSON"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 12,
+    "context": "arrest",
+    "description": "A low-resolution security camera image labeled CAM02 shows a crowded indoor space on April 27, 2014, at 1:21 AM. Numerous people are standing and moving in a dimly lit venue. Due to high graininess and motion blur, individual faces and specific actions are unclear. The setting appears to be a busy nightclub or social gathering.",
+    "named_entities": [
+      {
+        "text": "April 27, 2014",
+        "label": "DATE"
+      },
+      {
+        "text": "1:21 AM",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 13,
+    "context": "arrest",
+    "description": "A high-angle security camera view shows a white and yellow police car on a wet asphalt road. In the foreground, a dark sliding gate is set between white walls next to a paved driveway. The background features a green field and trees. The ground is wet, and the overall lighting suggests an overcast day.",
+    "named_entities": [
+      {
+        "text": "an overcast day",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 14,
+    "context": "arrest",
+    "description": "CCTV footage shows men in olive-green military uniforms and berets entering a small shop. A person in dark clothing stands behind a counter with a computer monitor. Shelves line the interior. More uniformed men and a car are visible through the window. A timestamp and an AP news logo appear at the top of the frame.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "AP",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 15,
+    "context": "arrest",
+    "description": "A CCTV image shows a head-on collision between a white van and a marked police car at an intersection. A person stands between the crashed vehicles. In the background, there are traffic lights, greenery, and another white car. The top text indicates the date is October 19, 2012, and the location is Windsor Road, Cogan.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "greenery",
+        "label": "ORG"
+      },
+      {
+        "text": "October 19, 2012",
+        "label": "DATE"
+      },
+      {
+        "text": "Windsor Road",
+        "label": "GPE"
+      },
+      {
+        "text": "Cogan",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "video_index": 16,
+    "context": "arrest",
+    "description": "Security footage shows a street intersection with two white police cars. A police officer stands on the sidewalk near a blue USPS mailbox and two black trash bins. In the background, a white van, a silver car, and pedestrians are visible. The image features a \"LiveLeak\" watermark and a June 2015 timestamp.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "USPS",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "June 2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 17,
+    "context": "arrest",
+    "description": "A low-resolution traffic camera image shows a police scene on I-205 at Sunnyside. Several police cruisers, a white box truck, and a teal tow truck are clustered on the highway lanes. Civilian cars are stopped or moving slowly nearby. On-screen text identifies the location as \"I-205 @ Sunnyside\" and shows logos for ODOT and KATU 2.",
+    "named_entities": [
+      {
+        "text": "I-205",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "I-205 @ Sunnyside",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "ODOT",
+        "label": "ORG"
+      },
+      {
+        "text": "KATU 2",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 18,
+    "context": "arrest",
+    "description": "A wet city street at night is illuminated by streetlights. A white taxi SUV is parked in the foreground, while a black police car sits further ahead. Several people stand or walk on sidewalks next to buildings with lit storefronts. Reflections of the lights shimmer on the damp asphalt road. High confidence.",
+    "named_entities": [
+      {
+        "text": "night",
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "video_index": 19,
+    "context": "arrest",
+    "description": "In this street scene, several personnel wearing reflective yellow vests and white helmets surround a teal taxi next to a white BMW sedan. One individual is positioned on top of the teal vehicle. A CCTV News logo appears in the top-left corner, and concrete stairs are visible in the background. This image depicts an active law enforcement intervention.",
+    "named_entities": [
+      {
+        "text": "BMW",
+        "label": "ORG"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "CCTV News",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 20,
+    "context": "arrest",
+    "description": "The image captures two white and blue police vans at night. One van, marked \"POLICE,\" faces forward with its headlights on. Part of another police vehicle is visible in the foreground. They sit on dark asphalt near a painted directional arrow. Concrete barriers line the background. A \"CCTVX\" watermark is in the lower-left corner.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "night",
+        "label": "TIME"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 21,
+    "context": "arrest",
+    "description": "A security camera captures an office with green carpeting and light-colored walls. A person in a dark suit stands near a doorway. Another person wearing a red shirt and dark pants stands behind a wooden desk cluttered with papers. A third person is partially visible in the bottom right corner. A pink bag lies on the floor.",
+    "named_entities": [
+      {
+        "text": "third",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 22,
+    "context": "arrest",
+    "description": "This security camera still shows a grassy yard and sidewalk. In the street background, several figures are gathered around a person on the ground near parked vehicles, appearing to be an arrest or struggle. A \"LiveLeak\" watermark and timestamp are present. Safety note: The image depicts a scene of potential physical conflict or law enforcement action.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 23,
+    "context": "arrest",
+    "description": "A low-resolution surveillance image shows a parking lot with several vehicles. In the center, two individuals are involved in a physical altercation on the ground. One person wears a red shirt. A white truck is parked in the foreground, and a building is on the right. Safety note: This image depicts a physical confrontation between people.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 24,
+    "context": "arrest",
+    "description": "A low-resolution image shows a white car with open doors on a road. A person in dark clothing leans over the driver's side door while another person lies face down on the pavement nearby. More figures in dark gear are visible in the background. Safety Note: The image depicts a potentially violent law enforcement incident.",
+    "named_entities": []
+  },
+  {
+    "video_index": 25,
+    "context": "arrest",
+    "description": "This grainy image shows two individuals in high-visibility vests pinning a person to the ground next to a dark blue car. A bystander in a dark jacket watches from the right. A \"LiveLeak\" logo is in the top left corner. Safety Note: The image depicts a physical confrontation. The setting appears to be an outdoor paved area.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 26,
+    "context": "arrest",
+    "description": "A low-quality security camera image shows three police officers in dark uniforms in a room. One officer kneels over an individual lying on the floor while two others stand nearby. The setting includes a desk and storage lockers. Safety note: The image depicts a police restraint scenario.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 27,
+    "context": "arrest",
+    "description": "Grainy traffic camera footage shows a busy multi-lane highway with various cars and an orange dump truck. On the right side, a cloud of dust rises near orange traffic barrels, indicating a possible vehicle accident. Text at the top identifies the location as \"T.H. 100 / EXCELSIOR BLVD W,\" and a \"LiveLeak\" watermark is in the corner.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "T.H. 100 / EXCELSIOR BLVD W",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 28,
+    "context": "arrest",
+    "description": "Safety Note: This image depicts a physical confrontation or restraint.\n\nA high-angle CCTV still shows two individuals in yellow high-visibility vests kneeling over a person lying on the floor. The scene takes place inside a small, glass-walled enclosure. A timestamp \"13-12-2012\" and a logo are visible at the top. The image captures an ongoing physical interaction.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "13-12-2012",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 29,
+    "context": "arrest",
+    "description": "A low-quality surveillance image shows a bald man in a dark uniform holding handcuffs. He has arm tattoos and patches on his sleeves, including a US flag. He stands beside a metal mesh partition. Timestamps read \"01:43:41\" and \"08-25-12,\" with the number \"1765\" visible. A \"Live Leak\" watermark appears in the top-left corner.",
+    "named_entities": [
+      {
+        "text": "US",
+        "label": "GPE"
+      },
+      {
+        "text": "1765",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "A \"Live Leak",
+        "label": "LAW"
+      }
+    ]
+  },
+  {
+    "video_index": 30,
+    "context": "arrest",
+    "description": "This grainy CCTV image shows a lobby with a person in a grey hoodie. A large yellow tarp covers an object on the floor near glass doors. Two timestamps and a \"LiveLeak\" logo are visible. Safety Note: The scene depicts the aftermath of a possible sensitive incident. Confidence Score: 5/5.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "5/5",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 31,
+    "context": "arrest",
+    "description": "A high-angle security camera shot shows a lobby reception area. A man in a light-colored shirt leans on a long counter, interacting with two staff members behind it whose faces are blurred. The background includes a seating area with sofas and a glass entrance door. A timestamp and a \"LiveLeak\" logo are visible on the screen.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 32,
+    "context": "arrest",
+    "description": "This low-resolution image shows an indoor office, possibly a police station. A person in a high-visibility yellow vest labeled \"POLICE\" leans over a blue counter. Two men in white shirts and ties are nearby, one seated at a desk with computer monitors. A LiveLeak logo appears in the top-left corner. (52 words)",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      },
+      {
+        "text": "52",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 33,
+    "context": "arrest",
+    "description": "A grainy, high-angle CCTV image shows a long hallway with multiple doors. A person in dark clothing stands on the right, facing a door. A dark object lies on the floor in the foreground. The top left corner features a \"LiveLeak\" logo and a 2013 timestamp. The floor reflects overhead lights in this sterile environment.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 34,
+    "context": "arrest",
+    "description": "This low-resolution security camera image shows a parking area entrance. A white police vehicle is parked near a small green guard booth. Several people stand on a sidewalk and near the booth. A LiveLeak logo appears in the top-left corner. Date and time stamps from April 30, 2015, are visible at the bottom.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "NORP"
+      },
+      {
+        "text": "April 30, 2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 35,
+    "context": "arrest",
+    "description": "A grainy security camera image shows a convenience store checkout. One person in dark clothing stands behind the counter near a cash register, while another stands in front. Stocked shelves and aisles are visible in the background. A \"LiveLeak\" watermark and timestamp appear at the top, with \"Camera 01\" in the bottom right.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Camera 01",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 36,
+    "context": "arrest",
+    "description": "Grainy security footage shows a room with a curved wooden desk covered in stacks of papers. A person in a light-colored uniform sits in the foreground. Two individuals in dark suits stand in the center. Rows of empty black chairs are tiered in the background. A \"LiveLeak\" watermark and timestamp are visible in the upper left.",
+    "named_entities": [
+      {
+        "text": "Grainy",
+        "label": "PERSON"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      }
+    ]
+  },
+  {
+    "video_index": 37,
+    "context": "arrest",
+    "description": "Nighttime CCTV footage shows a group of about seven people gathered in a paved courtyard. A black sedan is parked in the foreground, while a person sits on a scooter nearby. A metal fence and white car are in the background. The building wall features several text-filled posters. The timestamp indicates the scene occurred on April 12, 2014.",
+    "named_entities": [
+      {
+        "text": "Nighttime CCTV",
+        "label": "PERSON"
+      },
+      {
+        "text": "about seven",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "April 12, 2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 38,
+    "context": "arrest",
+    "description": "This grainy security footage shows an indoor lobby with tiled floors and rows of seating. Several individuals in dark uniforms are engaged in a physical struggle, restraining people in civilian attire. A \"LiveLeak\" watermark is in the corner. Safety note: This image depicts a violent physical altercation involving multiple people. Confidence score: 0.9.",
+    "named_entities": [
+      {
+        "text": "LiveLeak",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "0.9",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 39,
+    "context": "arrest",
+    "description": "Safety Note: This image depicts a physical struggle.\n\nSurveillance footage shows an indoor waiting room with carpeted floors and large windows. In the lower-left foreground, two individuals are engaged in a physical confrontation behind a wooden partition. A small dark object lies on the carpet nearby. The background contains empty chairs, side tables, and a reception counter.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 40,
+    "context": "arrest",
+    "description": "A wide-angle doorbell camera view shows several police cars with flashing blue lights on a suburban street. In the foreground, white porch pillars are wrapped in decorative garlands with lights. The background features two-story houses and bare trees under a grey sky. A person is visible running across a lawn near the police vehicles.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 41,
+    "context": "arrest",
+    "description": "This low-resolution image shows several men, some in uniforms, at a building's glass entrance. Two men are holding long firearms pointed toward the doorway. Broken glass lies on the floor near stacked yellow shopping baskets. Watermarks for LiveLeak and Skysoft are visible. Safety note: This image contains depictions of firearms and a tense security situation.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "LiveLeak",
+        "label": "GPE"
+      },
+      {
+        "text": "Skysoft",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "video_index": 42,
+    "context": "arrest",
+    "description": "A low-resolution security image shows a parking lot and grassy area. In the background, multiple people are engaged in a physical altercation on the ground between parked vehicles. Two observers stand nearby. A red car and two light-colored trucks are visible. Safety note: This image depicts a physical struggle between individuals.",
+    "named_entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 43,
+    "context": "arrest",
+    "description": "CCTV footage from 2011 shows a nighttime outdoor area with a red pickup, blue car, and white truck. Several individuals are present; one person is on the ground being restrained by others. Stacks of tires and a lit building are in the background. Note: The image depicts a physical confrontation.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 44,
+    "context": "arrest",
+    "description": "A living room features light blue walls, hardwood floors, and a wall-mounted television. A grey sectional sofa sits against the right wall, accompanied by a red armchair. A patterned rug is centered on the floor. To the left are wooden stairs and an archway leading to a dining room. A \"5 ABC WCVB\" logo appears in the bottom right.",
+    "named_entities": [
+      {
+        "text": "hardwood floors",
+        "label": "ORG"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 45,
+    "context": "arrest",
+    "description": "This security camera image shows a room with three people. On the left, a man in a dark uniform stands at a desk. In the center, another uniformed man stands behind a person in a tank top and shorts. The person in civilian clothing leans against a wall with their hands behind their back. Shoes are on the floor.",
+    "named_entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 47,
+    "context": "arrest",
+    "description": "Inside a store, two police officers are physically restraining a person in a red shirt. Shelves with snacks and a \"$4.95\" sign are visible. Safety note: This image shows a physical struggle. The scene includes tiled floors, a red mat, and an ATM. A person in a patterned jacket stands nearby.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4.95",
+        "label": "MONEY"
+      },
+      {
+        "text": "ATM",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "video_index": 48,
+    "context": "arrest",
+    "description": "A CCTV image shows a police officer in a high-visibility vest restraining an individual on asphalt marked with yellow lines. Two other people are physically involved in the struggle. Safety note: This image contains sensitive content depicting a physical confrontation and restraint. Timestamp and location text are visible at the top of the frame.",
+    "named_entities": [
+      {
+        "text": "CCTV",
+        "label": "ORG"
+      },
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "video_index": 49,
+    "context": "arrest",
+    "description": "A nighttime security camera image shows two white police cars with flashing blue lights on a wet street. One car is parked near a storefront labeled \"KILAW'S,\" where figures are visible. The road has \"TURN LEFT\" markings and arrows. On-screen text displays \"PRESET 2\" and a timestamp from early morning in January 2013.",
+    "named_entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "KILAW'S",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "early morning",
+        "label": "TIME"
+      },
+      {
+        "text": "January 2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "video_index": 50,
+    "context": "arrest",
+    "description": "A blurry, nighttime image of a city plaza. A large dark circular area is in the foreground. In the background, several people are standing or walking near buildings with lit windows. One individual is crouching on the left side. The scene uses dim artificial lighting. Confidence score is low due to significant image blur and low resolution.",
+    "named_entities": [
+      {
+        "text": "One",
+        "label": "CARDINAL"
+      }
+    ]
+  }
+]
